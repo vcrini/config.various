@@ -1,0 +1,1626 @@
+time 1398370837
+new [description:"brush teeth" entry:"1398370837" status:"pending" uuid:"adf90765-67b6-457a-82c1-34c9e38cd9b5"]
+---
+time 1398370930
+old [description:"brush teeth" entry:"1398370837" status:"pending" uuid:"adf90765-67b6-457a-82c1-34c9e38cd9b5"]
+new [description:"brush teeth" end:"1398370928" entry:"1398370837" status:"deleted" uuid:"adf90765-67b6-457a-82c1-34c9e38cd9b5"]
+---
+time 1398370988
+new [description:"sleep" end:"1398370988" entry:"1398370988" status:"completed" uuid:"c509771b-3380-4942-b999-db2160a71806"]
+---
+time 1398371207
+new [description:"Select a free weekend in November" entry:"1398371207" status:"pending" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+---
+time 1398371239
+new [description:"Select and book a venue" entry:"1398371239" status:"pending" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+---
+time 1398371252
+new [description:"CVome up with a guest list" entry:"1398371252" status:"pending" uuid:"b38e13e6-2b57-4efb-ab91-54abd0084be4"]
+---
+time 1398371273
+new [description:"Mail invitations" entry:"1398371273" status:"pending" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+---
+time 1398371281
+new [description:"Select a caterer" entry:"1398371281" status:"pending" uuid:"596c59f9-728d-4a66-ba6d-4c996a098ec3"]
+---
+time 1398371440
+new [description:"Order a special cake" end:"1398371440" entry:"1398371440" status:"completed" uuid:"1cdfc53a-88b7-4b28-b2cb-518ffca49bdb"]
+---
+time 1398371490
+new [description:"Design invitations" entry:"1398371490" status:"pending" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+---
+time 1398371686
+new [annotation_1398371686:"\/Mail\/ Print" description:"Mail invitations" entry:"1398371686" status:"pending" uuid:"83456477-a349-438a-9dfe-209f8dddbb87"]
+---
+time 1398371727
+new [description:"Print invitations" entry:"1398371727" status:"pending" uuid:"980aa079-b3a6-41c3-9418-1d8049593064"]
+---
+time 1398371755
+old [annotation_1398371686:"\/Mail\/ Print" description:"Mail invitations" entry:"1398371686" status:"pending" uuid:"83456477-a349-438a-9dfe-209f8dddbb87"]
+new [annotation_1398371686:"\/Mail\/ Print" description:"Mail invitations" end:"1398371752" entry:"1398371686" status:"deleted" uuid:"83456477-a349-438a-9dfe-209f8dddbb87"]
+---
+time 1398371795
+old [description:"CVome up with a guest list" entry:"1398371252" status:"pending" uuid:"b38e13e6-2b57-4efb-ab91-54abd0084be4"]
+new [description:"CVome up with a guest list" end:"1398371795" entry:"1398371252" status:"completed" uuid:"b38e13e6-2b57-4efb-ab91-54abd0084be4"]
+---
+time 1398371857
+new [description:"Pay the rent on the 31st" entry:"1398371857" status:"pending" uuid:"3b6a7cb7-9939-4532-9986-98cadc2f3036"]
+---
+time 1398373823
+old [description:"Pay the rent on the 31st" entry:"1398371857" status:"pending" uuid:"3b6a7cb7-9939-4532-9986-98cadc2f3036"]
+new [description:"Pay the rent on the 31st" entry:"1398371857" project:"home" status:"pending" uuid:"3b6a7cb7-9939-4532-9986-98cadc2f3036"]
+---
+time 1398373844
+old [description:"Select a free weekend in November" entry:"1398371207" status:"pending" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+new [description:"Select a free weekend in November" entry:"1398371207" project:"party" status:"pending" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+---
+time 1398373844
+old [description:"Select and book a venue" entry:"1398371239" status:"pending" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+new [description:"Select and book a venue" entry:"1398371239" project:"party" status:"pending" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+---
+time 1398373844
+old [description:"Mail invitations" entry:"1398371273" status:"pending" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+new [description:"Mail invitations" entry:"1398371273" project:"party" status:"pending" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+---
+time 1398373844
+old [description:"Select a caterer" entry:"1398371281" status:"pending" uuid:"596c59f9-728d-4a66-ba6d-4c996a098ec3"]
+new [description:"Select a caterer" entry:"1398371281" project:"party" status:"pending" uuid:"596c59f9-728d-4a66-ba6d-4c996a098ec3"]
+---
+time 1398373844
+old [description:"Design invitations" entry:"1398371490" status:"pending" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+new [description:"Design invitations" entry:"1398371490" project:"party" status:"pending" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+---
+time 1398373844
+old [description:"Print invitations" entry:"1398371727" status:"pending" uuid:"980aa079-b3a6-41c3-9418-1d8049593064"]
+new [description:"Print invitations" entry:"1398371727" project:"party" status:"pending" uuid:"980aa079-b3a6-41c3-9418-1d8049593064"]
+---
+time 1398373966
+old [description:"Select a free weekend in November" entry:"1398371207" project:"party" status:"pending" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+new [description:"Select a free weekend in November" entry:"1398371207" priority:"H" project:"party" status:"pending" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+---
+time 1398373968
+old [description:"Select and book a venue" entry:"1398371239" project:"party" status:"pending" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+new [description:"Select and book a venue" entry:"1398371239" priority:"H" project:"party" status:"pending" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+---
+time 1398373971
+old [description:"Mail invitations" entry:"1398371273" project:"party" status:"pending" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+new [description:"Mail invitations" entry:"1398371273" priority:"H" project:"party" status:"pending" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+---
+time 1398373972
+old [description:"Design invitations" entry:"1398371490" project:"party" status:"pending" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+new [description:"Design invitations" entry:"1398371490" priority:"H" project:"party" status:"pending" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+---
+time 1398668038
+old [description:"Design invitations" entry:"1398371490" priority:"H" project:"party" status:"pending" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+new [description:"Design invitations" end:"1398668036" entry:"1398371490" priority:"H" project:"party" status:"deleted" uuid:"1f503d5a-2645-4b7e-ad6e-5923d79b18df"]
+---
+time 1398668072
+new [description:"Work:Controllo Script" entry:"1398668072" status:"pending" uuid:"b239065b-e175-4daf-957a-3e504c9651c5"]
+---
+time 1398668091
+old [description:"Work:Controllo Script" entry:"1398668072" status:"pending" uuid:"b239065b-e175-4daf-957a-3e504c9651c5"]
+new [description:"Work:Controllo Script" end:"1398668090" entry:"1398668072" status:"deleted" uuid:"b239065b-e175-4daf-957a-3e504c9651c5"]
+---
+time 1398668230
+new [description:"Setup" entry:"1398668230" status:"pending" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+---
+time 1398668246
+old [description:"Work:Controllo Script" end:"1398668090" entry:"1398668072" status:"deleted" uuid:"b239065b-e175-4daf-957a-3e504c9651c5"]
+new [description:"Work:Controllo Script" end:"1398668090" entry:"1398668072" project:"work" status:"deleted" uuid:"b239065b-e175-4daf-957a-3e504c9651c5"]
+---
+time 1398668326
+new [description:"permesso visita" entry:"1398668326" status:"pending" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+---
+time 1398668336
+new [description:"modifica permesso python italia" entry:"1398668336" status:"pending" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+---
+time 1398668350
+old [description:"permesso visita" entry:"1398668326" status:"pending" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+new [description:"permesso visita" entry:"1398668326" project:"work" status:"pending" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+---
+time 1398668350
+old [description:"modifica permesso python italia" entry:"1398668336" status:"pending" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+new [description:"modifica permesso python italia" entry:"1398668336" project:"work" status:"pending" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+---
+time 1398668377
+old [description:"Setup" entry:"1398668230" status:"pending" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+new [description:"Setup" entry:"1398668230" project:"work" status:"pending" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+---
+time 1398668394
+old [description:"Select a free weekend in November" entry:"1398371207" priority:"H" project:"party" status:"pending" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+new [description:"Select a free weekend in November" end:"1398668392" entry:"1398371207" priority:"H" project:"party" status:"deleted" uuid:"2bb2fafb-229d-4d55-a797-1197bf692794"]
+---
+time 1398668394
+old [description:"Select and book a venue" entry:"1398371239" priority:"H" project:"party" status:"pending" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+new [description:"Select and book a venue" end:"1398668394" entry:"1398371239" priority:"H" project:"party" status:"deleted" uuid:"5e1524ea-5fba-45a9-95d4-e50fa712491d"]
+---
+time 1398668394
+old [description:"Mail invitations" entry:"1398371273" priority:"H" project:"party" status:"pending" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+new [description:"Mail invitations" end:"1398668394" entry:"1398371273" priority:"H" project:"party" status:"deleted" uuid:"da161f2f-ebf0-4cfa-bd7e-aae957c4b335"]
+---
+time 1398668394
+old [description:"Select a caterer" entry:"1398371281" project:"party" status:"pending" uuid:"596c59f9-728d-4a66-ba6d-4c996a098ec3"]
+new [description:"Select a caterer" end:"1398668394" entry:"1398371281" project:"party" status:"deleted" uuid:"596c59f9-728d-4a66-ba6d-4c996a098ec3"]
+---
+time 1398668394
+old [description:"Print invitations" entry:"1398371727" project:"party" status:"pending" uuid:"980aa079-b3a6-41c3-9418-1d8049593064"]
+new [description:"Print invitations" end:"1398668394" entry:"1398371727" project:"party" status:"deleted" uuid:"980aa079-b3a6-41c3-9418-1d8049593064"]
+---
+time 1398668394
+old [description:"Pay the rent on the 31st" entry:"1398371857" project:"home" status:"pending" uuid:"3b6a7cb7-9939-4532-9986-98cadc2f3036"]
+new [description:"Pay the rent on the 31st" end:"1398668394" entry:"1398371857" project:"home" status:"deleted" uuid:"3b6a7cb7-9939-4532-9986-98cadc2f3036"]
+---
+time 1398668474
+new [description:"password" entry:"1398668474" project:"work:change" status:"pending" uuid:"5b6147a6-cd05-4c39-a589-28a8cb8148d2"]
+---
+time 1398668493
+old [description:"password" entry:"1398668474" project:"work:change" status:"pending" uuid:"5b6147a6-cd05-4c39-a589-28a8cb8148d2"]
+new [description:"password" end:"1398668492" entry:"1398668474" project:"work:change" status:"deleted" uuid:"5b6147a6-cd05-4c39-a589-28a8cb8148d2"]
+---
+time 1398668696
+old [description:"Setup" entry:"1398668230" project:"work" status:"pending" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+new [description:"Setup" entry:"1398668230" project:"work" start:"1398668696" status:"pending" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+---
+time 1398671310
+new [description:"create excel for nagios with dependence" entry:"1398671310" project:"work" status:"pending" uuid:"04b77fd6-d125-47a4-8fea-b9d62fe73a92"]
+---
+time 1398671335
+new [description:"jesus task need is done?" entry:"1398671335" status:"pending" uuid:"d9e596da-6b65-45d6-8f8c-cdbf1d9002d0"]
+---
+time 1398671351
+old [description:"jesus task need is done?" entry:"1398671335" status:"pending" uuid:"d9e596da-6b65-45d6-8f8c-cdbf1d9002d0"]
+new [description:"jesus task need is done?" entry:"1398671335" project:"work" status:"pending" uuid:"d9e596da-6b65-45d6-8f8c-cdbf1d9002d0"]
+---
+time 1398671401
+new [description:"censimento script presenti nella infrastruttura" entry:"1398671401" project:"work" status:"pending" uuid:"5006892a-26b6-4178-ac18-d6940c799bc1"]
+---
+time 1398671428
+new [description:"inglese" entry:"1398671428" project:"work" status:"pending" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398671437
+new [description:"css course" entry:"1398671437" project:"work" status:"pending" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398671672
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398671709
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398671748
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"start" entry:"1398671672" priority:"H" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398671762
+old [description:"start" entry:"1398671672" priority:"H" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398671770
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" start:"1398671770" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398673668
+new [description:"HR app" entry:"1398673668" project:"work" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+---
+time 1398673691
+old [description:"permesso visita" entry:"1398668326" project:"work" status:"pending" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+new [description:"permesso visita" entry:"1398668326" project:"work" start:"1398673691" status:"pending" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+---
+time 1398673691
+old [description:"modifica permesso python italia" entry:"1398668336" project:"work" status:"pending" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+new [description:"modifica permesso python italia" entry:"1398668336" project:"work" start:"1398673691" status:"pending" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+---
+time 1398673910
+old [description:"permesso visita" entry:"1398668326" project:"work" start:"1398673691" status:"pending" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+new [description:"permesso visita" end:"1398673910" entry:"1398668326" project:"work" start:"1398673691" status:"completed" uuid:"612462cd-974a-475d-846d-a77fe1b8405a"]
+---
+time 1398673928
+old [description:"modifica permesso python italia" entry:"1398668336" project:"work" start:"1398673691" status:"pending" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+new [description:"modifica permesso python italia" end:"1398673928" entry:"1398668336" project:"work" start:"1398673691" status:"completed" uuid:"9244dc34-4f43-45f1-a5b2-4f9153aa5f54"]
+---
+time 1398675506
+new [description:"fix script iscrizioni waala au+130 and 76" entry:"1398675506" project:"work" status:"pending" uuid:"83aa651a-4d82-41d8-897c-e00f1f8e5add"]
+---
+time 1398678377
+old [description:"Setup" entry:"1398668230" project:"work" start:"1398668696" status:"pending" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+new [description:"Setup" end:"1398678377" entry:"1398668230" project:"work" start:"1398668696" status:"completed" uuid:"c21c0517-3a2d-42a2-91d0-2c60f6df7f28"]
+---
+time 1398678386
+old [description:"fix script iscrizioni waala au+130 and 76" entry:"1398675506" project:"work" status:"pending" uuid:"83aa651a-4d82-41d8-897c-e00f1f8e5add"]
+new [description:"fix script iscrizioni waala au+130 and 76" entry:"1398675506" project:"work" start:"1398678386" status:"pending" uuid:"83aa651a-4d82-41d8-897c-e00f1f8e5add"]
+---
+time 1398679274
+old [description:"inglese" entry:"1398671428" project:"work" status:"pending" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" project:"work" recur:"daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398679280
+old [description:"inglese" due:"1398722400" entry:"1398671428" project:"work" recur:"daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398679284
+new [description:"inglese" due:"1398722400" entry:"1398679284" imask:"0" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"3205d206-abd3-47df-a92f-b4d2ab622d69"]
+---
+time 1398679284
+old [description:"inglese" due:"1398722400" entry:"1398671428" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"-" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398679342
+old [description:"css course" entry:"1398671437" project:"work" status:"pending" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398679344
+new [description:"css course" due:"1398722400" entry:"1398679344" imask:"0" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+---
+time 1398679344
+old [description:"css course" due:"1398722400" entry:"1398671437" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"-" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398681079
+old [description:"inglese" due:"1398722400" entry:"1398679284" imask:"0" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"3205d206-abd3-47df-a92f-b4d2ab622d69"]
+new [description:"inglese" due:"1398722400" entry:"1398679284" imask:"0" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" start:"1398681079" status:"pending" uuid:"3205d206-abd3-47df-a92f-b4d2ab622d69"]
+---
+time 1398687381
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"-" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398687381
+old [description:"inglese" due:"1398722400" entry:"1398679284" imask:"0" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" start:"1398681079" status:"pending" uuid:"3205d206-abd3-47df-a92f-b4d2ab622d69"]
+new [description:"inglese" due:"1398722400" end:"1398687381" entry:"1398679284" imask:"0" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" start:"1398681079" status:"completed" uuid:"3205d206-abd3-47df-a92f-b4d2ab622d69"]
+---
+time 1398687830
+old [description:"fix script iscrizioni waala au+130 and 76" entry:"1398675506" project:"work" start:"1398678386" status:"pending" uuid:"83aa651a-4d82-41d8-897c-e00f1f8e5add"]
+new [description:"fix script iscrizioni waala au+130 and 76" end:"1398687830" entry:"1398675506" project:"work" start:"1398678386" status:"completed" uuid:"83aa651a-4d82-41d8-897c-e00f1f8e5add"]
+---
+time 1398687849
+old [description:"create excel for nagios with dependence" entry:"1398671310" project:"work" status:"pending" uuid:"04b77fd6-d125-47a4-8fea-b9d62fe73a92"]
+new [description:"create excel for nagios with dependence" entry:"1398671310" project:"work" start:"1398687849" status:"pending" uuid:"04b77fd6-d125-47a4-8fea-b9d62fe73a92"]
+---
+time 1398687899
+new [description:"learn wartask" entry:"1398687899" project:"work" status:"pending" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+---
+time 1398687924
+old [description:"learn wartask" entry:"1398687899" project:"work" status:"pending" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+new [description:"learn wartask" entry:"1398687899" project:"learning" status:"pending" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+---
+time 1398687954
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" start:"1398671770" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" project:"work" start:"1398671770" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398689004
+old [description:"censimento script presenti nella infrastruttura" entry:"1398671401" project:"work" status:"pending" uuid:"5006892a-26b6-4178-ac18-d6940c799bc1"]
+new [description:"censimento script presenti nella infrastruttura" end:"1398689004" entry:"1398671401" modified:"1398689004" project:"work" status:"completed" uuid:"5006892a-26b6-4178-ac18-d6940c799bc1"]
+---
+time 1398692727
+old [description:"create excel for nagios with dependence" entry:"1398671310" project:"work" start:"1398687849" status:"pending" uuid:"04b77fd6-d125-47a4-8fea-b9d62fe73a92"]
+new [description:"create excel for nagios with dependence" end:"1398692727" entry:"1398671310" modified:"1398692727" project:"work" start:"1398687849" status:"completed" uuid:"04b77fd6-d125-47a4-8fea-b9d62fe73a92"]
+---
+time 1398692832
+old [description:"learn wartask" entry:"1398687899" project:"learning" status:"pending" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+new [description:"learn wartask" entry:"1398687899" modified:"1398692832" project:"learning" start:"1398692832" status:"pending" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+---
+time 1398692936
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" priority:"H" project:"work" start:"1398671770" status:"pending" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398692936" priority:"H" project:"work" start:"1398671770" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398693074
+old [description:"css course" due:"1398722400" entry:"1398679344" imask:"0" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+new [description:"HTML5\/css course" due:"1398722400" entry:"1398679344" imask:"0" modified:"1398693074" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+---
+time 1398693164
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398692936" priority:"H" project:"work" start:"1398671770" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398693164:"PC is needed" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398693164" priority:"H" project:"work" start:"1398671770" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398693243
+old [annotation_1398693164:"PC is needed" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398693164" priority:"H" project:"work" start:"1398671770" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398693164:"PC is needed" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398693243" priority:"H" project:"work" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398693329
+old [description:"HR app" entry:"1398673668" project:"work" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+new [description:"HR app" due:"1398981600" entry:"1398673668" modified:"1398693329" project:"work" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+---
+time 1398693650
+old [description:"learn wartask" entry:"1398687899" modified:"1398692832" project:"learning" start:"1398692832" status:"pending" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+new [description:"learn wartask" end:"1398693650" entry:"1398687899" modified:"1398693650" project:"learning" start:"1398692832" status:"completed" uuid:"ca0c1743-3ffe-44b9-b7ee-111b319d4297"]
+---
+time 1398693659
+old [description:"jesus task need is done?" entry:"1398671335" project:"work" status:"pending" uuid:"d9e596da-6b65-45d6-8f8c-cdbf1d9002d0"]
+new [description:"jesus task need is done?" end:"1398693659" entry:"1398671335" modified:"1398693659" project:"work" status:"completed" uuid:"d9e596da-6b65-45d6-8f8c-cdbf1d9002d0"]
+---
+time 1398696687
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"-" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"-" modified:"1398696687" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398696687
+old [description:"HTML5\/css course" due:"1398722400" entry:"1398679344" imask:"0" modified:"1398693074" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+new [description:"HTML5\/css course" due:"1398722400" entry:"1398679344" imask:"0" modified:"1398696687" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" start:"1398696687" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+---
+time 1398696787
+old [description:"HR app" due:"1398981600" entry:"1398673668" modified:"1398693329" project:"work" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+new [description:"HR app" due:"1398981600" entry:"1398673668" modified:"1398696787" project:"HRApp" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+---
+time 1398696808
+old [description:"HR app" due:"1398981600" entry:"1398673668" modified:"1398696787" project:"HRApp" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+new [description:"Adding graphs" due:"1398981600" entry:"1398673668" modified:"1398696808" project:"HRApp" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+---
+time 1398696863
+old [annotation_1398693164:"PC is needed" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398693243" priority:"H" project:"work" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398693164:"PC is needed" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398696863" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398696881
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"-" modified:"1398696687" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"-" modified:"1398696881" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398696881
+old [description:"HTML5\/css course" due:"1398722400" entry:"1398679344" imask:"0" modified:"1398696687" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" start:"1398696687" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+new [description:"HTML5\/css course" due:"1398722400" entry:"1398679344" imask:"0" modified:"1398696881" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"learning" recur:"weekly" start:"1398696687" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+---
+time 1398699370
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"-" modified:"1398696881" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+" modified:"1398699370" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398699370
+old [description:"HTML5\/css course" due:"1398722400" entry:"1398679344" imask:"0" modified:"1398696881" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"learning" recur:"weekly" start:"1398696687" status:"pending" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+new [description:"HTML5\/css course" due:"1398722400" end:"1398699370" entry:"1398679344" imask:"0" modified:"1398699370" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"learning" recur:"weekly" start:"1398696687" status:"completed" uuid:"bbbb6797-f077-49e1-a03d-82371bafeab2"]
+---
+time 1398752597
+new [description:"inglese" due:"1398895200" entry:"1398752597" imask:"1" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"57240f23-9d20-4da1-ba5d-2eceb56223bb"]
+---
+time 1398752597
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+-" modified:"1398752597" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398752597
+new [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1398699370" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+---
+time 1398752597
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+" modified:"1398699370" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+-" modified:"1398752597" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398752850
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+-" modified:"1398752597" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+-" modified:"1398752850" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398752850
+old [description:"inglese" due:"1398895200" entry:"1398752597" imask:"1" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"57240f23-9d20-4da1-ba5d-2eceb56223bb"]
+new [description:"inglese" due:"1398895200" entry:"1398752597" imask:"1" modified:"1398752850" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"pending" uuid:"57240f23-9d20-4da1-ba5d-2eceb56223bb"]
+---
+time 1398752877
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+-" modified:"1398752597" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+-" modified:"1398752877" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1398752877
+old [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1398699370" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+new [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1398752877" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"learning" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+---
+time 1398753902
+new [description:"Setup" due:"1398722400" entry:"1398753902" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+---
+time 1398753905
+new [description:"Setup" due:"1398722400" entry:"1398753905" imask:"0" parent:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37" project:"setup" recur:"daily" status:"pending" uuid:"f841b428-ac4a-4470-87ed-69483cd88652"]
+---
+time 1398753905
+new [description:"Setup" due:"1398808800" entry:"1398753905" imask:"1" parent:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37" project:"setup" recur:"daily" status:"pending" uuid:"03f3548a-3d43-4c8b-8ca0-1961f5f314b7"]
+---
+time 1398753905
+old [description:"Setup" due:"1398722400" entry:"1398753902" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+new [description:"Setup" due:"1398722400" entry:"1398753902" mask:"--" modified:"1398753905" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+---
+time 1398753944
+old [description:"Setup" due:"1398722400" entry:"1398753902" mask:"--" modified:"1398753905" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+new [description:"Setup" due:"1398722400" entry:"1398753902" mask:"X-" modified:"1398753944" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+---
+time 1398753944
+old [description:"Setup" due:"1398722400" entry:"1398753905" imask:"0" parent:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37" project:"setup" recur:"daily" status:"pending" uuid:"f841b428-ac4a-4470-87ed-69483cd88652"]
+new [description:"Setup" due:"1398722400" end:"1398753940" entry:"1398753905" imask:"0" modified:"1398753944" parent:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37" project:"setup" recur:"daily" status:"deleted" uuid:"f841b428-ac4a-4470-87ed-69483cd88652"]
+---
+time 1398753948
+old [description:"Setup" due:"1398722400" entry:"1398753902" mask:"X-" modified:"1398753944" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+new [description:"Setup" due:"1398722400" entry:"1398753902" mask:"XX" modified:"1398753948" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+---
+time 1398753948
+old [description:"Setup" due:"1398808800" entry:"1398753905" imask:"1" parent:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37" project:"setup" recur:"daily" status:"pending" uuid:"03f3548a-3d43-4c8b-8ca0-1961f5f314b7"]
+new [description:"Setup" due:"1398808800" end:"1398753948" entry:"1398753905" imask:"1" modified:"1398753948" parent:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37" project:"setup" recur:"daily" status:"deleted" uuid:"03f3548a-3d43-4c8b-8ca0-1961f5f314b7"]
+---
+time 1398753948
+old [description:"Setup" due:"1398722400" entry:"1398753902" mask:"XX" modified:"1398753948" project:"setup" recur:"daily" status:"recurring" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+new [description:"Setup" due:"1398722400" end:"1398753948" entry:"1398753902" mask:"XX" modified:"1398753948" project:"setup" recur:"daily" status:"deleted" uuid:"47e6776a-5b9e-4343-a3f3-9a9649bf3d37"]
+---
+time 1398753955
+new [description:"Setup" due:"1398722400" entry:"1398753955" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398753964
+new [description:"Setup" due:"1398722400" entry:"1398753964" imask:"0" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"08c64e40-9ec0-4c95-81e4-dea93ed92b83"]
+---
+time 1398753964
+new [description:"Setup" due:"1398808800" entry:"1398753964" imask:"1" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"9394d561-6f7d-4169-9ec2-db0518e50b90"]
+---
+time 1398753964
+old [description:"Setup" due:"1398722400" entry:"1398753955" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"--" modified:"1398753964" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398753988
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"--" modified:"1398753964" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"--" modified:"1398753988" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398753988
+old [description:"Setup" due:"1398722400" entry:"1398753964" imask:"0" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"08c64e40-9ec0-4c95-81e4-dea93ed92b83"]
+new [description:"Setup" due:"1398722400" entry:"1398753964" imask:"0" modified:"1398753988" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1398753988" status:"pending" uuid:"08c64e40-9ec0-4c95-81e4-dea93ed92b83"]
+---
+time 1398754103
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"--" modified:"1398753988" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+-" modified:"1398754103" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398754103
+old [description:"Setup" due:"1398722400" entry:"1398753964" imask:"0" modified:"1398753988" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1398753988" status:"pending" uuid:"08c64e40-9ec0-4c95-81e4-dea93ed92b83"]
+new [description:"Setup" due:"1398722400" end:"1398754103" entry:"1398753964" imask:"0" modified:"1398754103" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1398753988" status:"completed" uuid:"08c64e40-9ec0-4c95-81e4-dea93ed92b83"]
+---
+time 1398754137
+old [annotation_1398693164:"PC is needed" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398696863" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398754137" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398754158
+old [description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398754137" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398754158:"recall in an hour if problem is not taken" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398754158" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398756467
+new [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398756828
+new [description:"work:fix cdr parser ko amazon" entry:"1398756828" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398756832
+old [description:"work:fix cdr parser ko amazon" entry:"1398756828" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398756832" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398761878
+old [description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398756832" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [annotation_1398761878:"QA ticket 662201" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398761878" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398761984
+old [annotation_1398761878:"QA ticket 662201" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398761878" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398761984" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398762008
+new [description:"t662201" entry:"1398762008" project:"qa" status:"pending" uuid:"aba0092a-5ce8-4d67-b034-f12b4fd35b88"]
+---
+time 1398762024
+old [description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398761984" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762024" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398762133
+old [description:"t662201" entry:"1398762008" project:"qa" status:"pending" uuid:"aba0092a-5ce8-4d67-b034-f12b4fd35b88"]
+new [description:"t662201" end:"1398762131" entry:"1398762008" modified:"1398762133" project:"qa" status:"deleted" uuid:"aba0092a-5ce8-4d67-b034-f12b4fd35b88"]
+---
+time 1398762148
+old [depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762024" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [annotation_1398762148:"qa ticket" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762148" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398762156
+old [annotation_1398762148:"qa ticket" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762148" start:"1398756832" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [annotation_1398762148:"qa ticket" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762156" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398762311
+old [annotation_1398762148:"qa ticket" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762156" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [annotation_1398762148:"qa ticket 662201" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762311" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398763117
+old [annotation_1398762148:"qa ticket 662201" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" entry:"1398756828" modified:"1398762311" status:"pending" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+new [annotation_1398762148:"qa ticket 662201" depends:"aba0092a-5ce8-4d67-b034-f12b4fd35b88" description:"work:fix cdr parser ko amazon" end:"1398763117" entry:"1398756828" modified:"1398763117" status:"completed" uuid:"643d81eb-6f74-47e8-afb4-cb6e1dbe4746"]
+---
+time 1398763187
+old [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398763187" project:"work" start:"1398763187" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398763216
+old [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398763187" project:"work" start:"1398763187" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398763216" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398766756
+old [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398763216" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398766756" project:"work" start:"1398766756" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398776084
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+-" modified:"1398752850" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++" modified:"1398776084" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1398776084
+old [description:"inglese" due:"1398895200" entry:"1398752597" imask:"1" modified:"1398752850" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"pending" uuid:"57240f23-9d20-4da1-ba5d-2eceb56223bb"]
+new [description:"inglese" due:"1398895200" end:"1398776084" entry:"1398752597" imask:"1" modified:"1398776084" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"completed" uuid:"57240f23-9d20-4da1-ba5d-2eceb56223bb"]
+---
+time 1398776116
+new [description:"qcalc" entry:"1398776116" project:"learning" status:"pending" uuid:"3d205100-d127-4e35-9d7a-6dced5634efb"]
+---
+time 1398779018
+old [description:"qcalc" entry:"1398776116" project:"learning" status:"pending" uuid:"3d205100-d127-4e35-9d7a-6dced5634efb"]
+new [description:"qcalc" entry:"1398776116" modified:"1398779018" project:"learning" start:"1398779018" status:"pending" uuid:"3d205100-d127-4e35-9d7a-6dced5634efb"]
+---
+time 1398781695
+old [description:"qcalc" entry:"1398776116" modified:"1398779018" project:"learning" start:"1398779018" status:"pending" uuid:"3d205100-d127-4e35-9d7a-6dced5634efb"]
+new [description:"qcalc" end:"1398781695" entry:"1398776116" modified:"1398781695" project:"learning" start:"1398779018" status:"completed" uuid:"3d205100-d127-4e35-9d7a-6dced5634efb"]
+---
+time 1398785445
+new [description:"chiedi al Palma sul discorso del WINCH" entry:"1398785445" project:"work" status:"pending" uuid:"778f5306-5525-47d8-af8a-5f73ff61b3a2"]
+---
+time 1398801895
+new [description:"filo interdentale" entry:"1398801895" project:"spesa" status:"pending" uuid:"f21a6f9d-d9a9-4c03-83a0-50f9144fb71a"]
+---
+time 1398801903
+new [description:"ricambi spazzolino" entry:"1398801903" project:"spesa" status:"pending" uuid:"71ca1a9e-8bf7-446d-84e1-6d54c21d3906"]
+---
+time 1398839820
+new [description:"Setup" due:"1398895200" entry:"1398839820" imask:"2" modified:"1398754103" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d2b02017-e9df-40d3-a273-7ca8d3bba7f9"]
+---
+time 1398839820
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+-" modified:"1398754103" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+--" modified:"1398839820" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398840748
+old [description:"filo interdentale" entry:"1398801895" project:"spesa" status:"pending" uuid:"f21a6f9d-d9a9-4c03-83a0-50f9144fb71a"]
+new [description:"filo interdentale" end:"1398840745" entry:"1398801895" modified:"1398840748" project:"spesa" status:"deleted" uuid:"f21a6f9d-d9a9-4c03-83a0-50f9144fb71a"]
+---
+time 1398840748
+old [description:"ricambi spazzolino" entry:"1398801903" project:"spesa" status:"pending" uuid:"71ca1a9e-8bf7-446d-84e1-6d54c21d3906"]
+new [description:"ricambi spazzolino" end:"1398840748" entry:"1398801903" modified:"1398840748" project:"spesa" status:"deleted" uuid:"71ca1a9e-8bf7-446d-84e1-6d54c21d3906"]
+---
+time 1398840766
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+--" modified:"1398839820" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+--" modified:"1398840766" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398840766
+old [description:"Setup" due:"1398808800" entry:"1398753964" imask:"1" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"9394d561-6f7d-4169-9ec2-db0518e50b90"]
+new [description:"Setup" due:"1398808800" entry:"1398753964" imask:"1" modified:"1398840766" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1398840766" status:"pending" uuid:"9394d561-6f7d-4169-9ec2-db0518e50b90"]
+---
+time 1398840930
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+--" modified:"1398840766" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++-" modified:"1398840930" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398840930
+old [description:"Setup" due:"1398808800" entry:"1398753964" imask:"1" modified:"1398840766" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1398840766" status:"pending" uuid:"9394d561-6f7d-4169-9ec2-db0518e50b90"]
+new [description:"Setup" due:"1398808800" end:"1398840930" entry:"1398753964" imask:"1" modified:"1398840930" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1398840766" status:"completed" uuid:"9394d561-6f7d-4169-9ec2-db0518e50b90"]
+---
+time 1398846259
+old [description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398766756" project:"work" start:"1398766756" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398846259" project:"work" start:"1398766756" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398846271
+old [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398846259" project:"work" start:"1398766756" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398846271" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398846286
+old [description:"chiedi al Palma sul discorso del WINCH" entry:"1398785445" project:"work" status:"pending" uuid:"778f5306-5525-47d8-af8a-5f73ff61b3a2"]
+new [description:"chiedi al Palma sul discorso del WINCH" end:"1398846286" entry:"1398785445" modified:"1398846286" project:"work" status:"completed" uuid:"778f5306-5525-47d8-af8a-5f73ff61b3a2"]
+---
+time 1398847039
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++-" modified:"1398840930" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++-" modified:"1398847039" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398847039
+old [description:"Setup" due:"1398895200" entry:"1398839820" imask:"2" modified:"1398754103" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d2b02017-e9df-40d3-a273-7ca8d3bba7f9"]
+new [description:"Setup" due:"1398895200" entry:"1398839820" imask:"2" modified:"1398847039" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"work" recur:"daily" status:"pending" uuid:"d2b02017-e9df-40d3-a273-7ca8d3bba7f9"]
+---
+time 1398850056
+new [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" entry:"1398850056" project:"work" status:"pending" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+---
+time 1398850265
+old [description:"Adding graphs" due:"1398981600" entry:"1398673668" modified:"1398696808" project:"HRApp" status:"pending" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+new [description:"Adding graphs" due:"1398981600" end:"1398850265" entry:"1398673668" modified:"1398850265" project:"HRApp" status:"completed" uuid:"8fc134f8-6c2f-46fc-8bdd-153960a87ad7"]
+---
+time 1398850278
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++-" modified:"1398847039" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+++" modified:"1398850278" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1398850278
+old [description:"Setup" due:"1398895200" entry:"1398839820" imask:"2" modified:"1398847039" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"work" recur:"daily" status:"pending" uuid:"d2b02017-e9df-40d3-a273-7ca8d3bba7f9"]
+new [description:"Setup" due:"1398895200" end:"1398850278" entry:"1398839820" imask:"2" modified:"1398850278" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"work" recur:"daily" status:"completed" uuid:"d2b02017-e9df-40d3-a273-7ca8d3bba7f9"]
+---
+time 1398850412
+new [description:"spiega flusso blackflag a Massimiliano" entry:"1398850412" project:"work" status:"pending" uuid:"44f1d944-d377-4277-b833-f58cbf2b49a7"]
+---
+time 1398850433
+old [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" entry:"1398850056" project:"work" status:"pending" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+new [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" entry:"1398850056" modified:"1398850433" priority:"H" project:"work" status:"pending" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+---
+time 1398850479
+new [description:"client engate" entry:"1398850479" project:"work" status:"pending" uuid:"daac501f-1de8-41ce-bb0a-d4be9b0d9703"]
+---
+time 1398850488
+old [annotation_1398754158:"recall in an hour if problem is not taken" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398754158" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398754158:"recall in an hour if problem is not taken" depends:"daac501f-1de8-41ce-bb0a-d4be9b0d9703" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398850488" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1398850652
+old [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" entry:"1398850056" modified:"1398850433" priority:"H" project:"work" status:"pending" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+new [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" entry:"1398850056" modified:"1398850652" priority:"H" project:"work" start:"1398850652" status:"pending" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+---
+time 1398850708
+old [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398846271" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398850708" project:"work" start:"1398850708" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1398863645
+old [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" entry:"1398850056" modified:"1398850652" priority:"H" project:"work" start:"1398850652" status:"pending" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+new [description:"tempi di sviluppo di &open;662101,662103,662104,644869+" end:"1398863645" entry:"1398850056" modified:"1398863645" priority:"H" project:"work" start:"1398850652" status:"completed" uuid:"82f54457-6bb6-488e-927e-3095cbba15c6"]
+---
+time 1398863967
+new [description:"controllare iscritti waala au" due:"1399036767" entry:"1398863967" project:"work" status:"pending" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+---
+time 1399012310
+new [description:"inglese" due:"1399068000" entry:"1399012310" imask:"2" modified:"1398776084" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"c0f28064-3959-4768-b55f-88986caf5f24"]
+---
+time 1399012310
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++" modified:"1398776084" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++-" modified:"1399012310" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399012310
+new [description:"Setup" due:"1398981600" entry:"1399012310" imask:"3" modified:"1398850278" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"2b535cde-6ea5-4918-99c8-854d8e78c862"]
+---
+time 1399012310
+new [description:"Setup" due:"1399068000" entry:"1399012310" imask:"4" modified:"1398850278" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+---
+time 1399012310
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+++" modified:"1398850278" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+++--" modified:"1399012310" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399012417
+new [description:"mail a Gilbert" entry:"1399012417" project:"work" status:"pending" uuid:"72057a1f-8b1b-4e3b-a911-fca4aaf5d5a5"]
+---
+time 1399012442
+old [description:"controllare iscritti waala au" due:"1399036767" entry:"1398863967" project:"work" status:"pending" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+new [description:"controllare iscritti waala au" due:"1399036767" entry:"1398863967" modified:"1399012442" project:"work" start:"1399012442" status:"pending" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+---
+time 1399013051
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+++--" modified:"1399012310" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+++--" modified:"1399013051" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399013051
+old [description:"Setup" due:"1398981600" entry:"1399012310" imask:"3" modified:"1398850278" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"2b535cde-6ea5-4918-99c8-854d8e78c862"]
+new [description:"Setup" due:"1398981600" entry:"1399012310" imask:"3" modified:"1399013051" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399013051" status:"pending" uuid:"2b535cde-6ea5-4918-99c8-854d8e78c862"]
+---
+time 1399013059
+old [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1398850708" project:"work" start:"1398850708" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1399013059" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1399016501
+new [description:"Waala AU $ missing" entry:"1399016501" status:"pending" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+---
+time 1399017029
+new [description:"timesheet" entry:"1399017029" project:"work" status:"pending" uuid:"c5486fc3-036e-477f-8018-084cae376a54"]
+---
+time 1399017077
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"+++--" modified:"1399013051" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-" modified:"1399017077" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399017077
+old [description:"Setup" due:"1398981600" entry:"1399012310" imask:"3" modified:"1399013051" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399013051" status:"pending" uuid:"2b535cde-6ea5-4918-99c8-854d8e78c862"]
+new [description:"Setup" due:"1398981600" end:"1399017077" entry:"1399012310" imask:"3" modified:"1399017077" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399013051" status:"completed" uuid:"2b535cde-6ea5-4918-99c8-854d8e78c862"]
+---
+time 1399017100
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-" modified:"1399017077" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-" modified:"1399017100" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399017100
+old [description:"Setup" due:"1399068000" entry:"1399012310" imask:"4" modified:"1398850278" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+new [description:"Setup" due:"1399240800" entry:"1399012310" imask:"4" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+---
+time 1399017125
+old [description:"Waala AU $ missing" entry:"1399016501" status:"pending" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+new [description:"Waala AU $ missing" entry:"1399016501" modified:"1399017125" start:"1399017125" status:"pending" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+---
+time 1399017137
+old [description:"controllare iscritti waala au" due:"1399036767" entry:"1398863967" modified:"1399012442" project:"work" start:"1399012442" status:"pending" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+new [description:"controllare iscritti waala au" due:"1399036767" entry:"1398863967" modified:"1399017137" project:"work" status:"pending" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+---
+time 1399017166
+old [description:"Waala AU $ missing" entry:"1399016501" modified:"1399017125" start:"1399017125" status:"pending" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+new [description:"Waala AU $ missing" entry:"1399016501" modified:"1399017166" start:"1399017125" status:"pending" urgency:"H" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+---
+time 1399017563
+new [description:"work:verifica mia presenza venerdì di pasqua" entry:"1399017563" status:"pending" uuid:"88bb8c30-3bb7-4ba6-9ebe-b55b7e840d70"]
+---
+time 1399027494
+old [description:"mail a Gilbert" entry:"1399012417" project:"work" status:"pending" uuid:"72057a1f-8b1b-4e3b-a911-fca4aaf5d5a5"]
+new [description:"mail a Gilbert" entry:"1399012417" modified:"1399027494" project:"work" start:"1399027494" status:"pending" uuid:"72057a1f-8b1b-4e3b-a911-fca4aaf5d5a5"]
+---
+time 1399027764
+old [description:"mail a Gilbert" entry:"1399012417" modified:"1399027494" project:"work" start:"1399027494" status:"pending" uuid:"72057a1f-8b1b-4e3b-a911-fca4aaf5d5a5"]
+new [description:"mail a Gilbert" end:"1399027764" entry:"1399012417" modified:"1399027764" project:"work" start:"1399027494" status:"completed" uuid:"72057a1f-8b1b-4e3b-a911-fca4aaf5d5a5"]
+---
+time 1399028013
+old [description:"timesheet" entry:"1399017029" project:"work" status:"pending" uuid:"c5486fc3-036e-477f-8018-084cae376a54"]
+new [description:"timesheet" entry:"1399017029" modified:"1399028013" project:"work" start:"1399028013" status:"pending" uuid:"c5486fc3-036e-477f-8018-084cae376a54"]
+---
+time 1399028199
+old [description:"timesheet" entry:"1399017029" modified:"1399028013" project:"work" start:"1399028013" status:"pending" uuid:"c5486fc3-036e-477f-8018-084cae376a54"]
+new [description:"timesheet" end:"1399028199" entry:"1399017029" modified:"1399028199" project:"work" start:"1399028013" status:"completed" uuid:"c5486fc3-036e-477f-8018-084cae376a54"]
+---
+time 1399028294
+old [description:"work:verifica mia presenza venerdì di pasqua" entry:"1399017563" status:"pending" uuid:"88bb8c30-3bb7-4ba6-9ebe-b55b7e840d70"]
+new [description:"work:verifica mia presenza venerdì di pasqua" end:"1399028294" entry:"1399017563" modified:"1399028294" status:"completed" uuid:"88bb8c30-3bb7-4ba6-9ebe-b55b7e840d70"]
+---
+time 1399033599
+new [description:"amazon email &open;662100&close;" entry:"1399033599" status:"pending" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399033603
+old [description:"amazon email &open;662100&close;" entry:"1399033599" status:"pending" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399033603" start:"1399033603" status:"pending" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399033617
+old [description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399033603" start:"1399033603" status:"pending" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399033617" start:"1399033603" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399035680
+old [description:"Waala AU $ missing" entry:"1399016501" modified:"1399017166" start:"1399017125" status:"pending" urgency:"H" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+new [description:"Waala AU $ missing" entry:"1399016501" modified:"1399035680" status:"pending" urgency:"H" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+---
+time 1399038000
+old [description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399033617" start:"1399033603" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [annotation_1399038000:"trunk commit 22869" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399038000" start:"1399033603" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399038031
+old [annotation_1399038000:"trunk commit 22869" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399038000" start:"1399033603" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399038031" start:"1399033603" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399041643
+old [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399038031" start:"1399033603" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399041643" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399042195
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++-" modified:"1399012310" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++-" modified:"1399042195" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399042195
+old [description:"inglese" due:"1399068000" entry:"1399012310" imask:"2" modified:"1398776084" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"c0f28064-3959-4768-b55f-88986caf5f24"]
+new [description:"inglese" due:"1399068000" entry:"1399012310" imask:"2" modified:"1399042195" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" start:"1399042195" status:"pending" uuid:"c0f28064-3959-4768-b55f-88986caf5f24"]
+---
+time 1399044327
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++-" modified:"1399042195" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+++" modified:"1399044327" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399044327
+old [description:"inglese" due:"1399068000" entry:"1399012310" imask:"2" modified:"1399042195" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" start:"1399042195" status:"pending" uuid:"c0f28064-3959-4768-b55f-88986caf5f24"]
+new [description:"inglese" due:"1399068000" end:"1399044327" entry:"1399012310" imask:"2" modified:"1399044327" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" start:"1399042195" status:"completed" uuid:"c0f28064-3959-4768-b55f-88986caf5f24"]
+---
+time 1399044506
+old [description:"controllare iscritti waala au" due:"1399036767" entry:"1398863967" modified:"1399017137" project:"work" status:"pending" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+new [description:"controllare iscritti waala au" due:"1399036767" end:"1399044506" entry:"1398863967" modified:"1399044506" project:"work" status:"completed" uuid:"0bbcba34-28a1-4e12-98ea-018ffa702441"]
+---
+time 1399272393
+new [description:"inglese" due:"1399240800" entry:"1399272393" imask:"3" modified:"1399044327" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"bba79a22-5d06-4144-880c-17244a1de701"]
+---
+time 1399272393
+new [description:"inglese" due:"1399413600" entry:"1399272393" imask:"4" modified:"1399044327" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"9f5aba0c-99be-4ec4-8e1c-dcfdbc98c0a0"]
+---
+time 1399272393
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+++" modified:"1399044327" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+++--" modified:"1399272393" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399272393
+new [description:"Setup" due:"1399154400" entry:"1399272393" imask:"5" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5019bc03-1bc2-4c27-b9cc-20f966b9e6c9"]
+---
+time 1399272393
+new [description:"Setup" due:"1399240800" entry:"1399272393" imask:"6" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"b0adddef-bb55-42bd-9907-cd98409b474f"]
+---
+time 1399272393
+new [description:"Setup" due:"1399327200" entry:"1399272393" imask:"7" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"391eaf44-7bc1-4d86-8dba-ce44d83fe1ed"]
+---
+time 1399272393
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-" modified:"1399017100" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++----" modified:"1399272393" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399272400
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++----" modified:"1399272393" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-+--" modified:"1399272400" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399272400
+old [description:"Setup" due:"1399154400" entry:"1399272393" imask:"5" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5019bc03-1bc2-4c27-b9cc-20f966b9e6c9"]
+new [description:"Setup" due:"1399154400" end:"1399272400" entry:"1399272393" imask:"5" modified:"1399272400" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"5019bc03-1bc2-4c27-b9cc-20f966b9e6c9"]
+---
+time 1399272423
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-+--" modified:"1399272400" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-+X-" modified:"1399272423" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399272423
+old [description:"Setup" due:"1399240800" entry:"1399272393" imask:"6" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"b0adddef-bb55-42bd-9907-cd98409b474f"]
+new [description:"Setup" due:"1399240800" end:"1399272421" entry:"1399272393" imask:"6" modified:"1399272423" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"b0adddef-bb55-42bd-9907-cd98409b474f"]
+---
+time 1399272614
+new [description:"tmux" entry:"1399272614" project:"learning" status:"pending" uuid:"27f18e24-a0cb-4b30-a7f6-08d75895bc53"]
+---
+time 1399272908
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-+X-" modified:"1399272423" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-+X-" modified:"1399272908" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399272908
+old [description:"Setup" due:"1399240800" entry:"1399012310" imask:"4" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+new [description:"Setup" due:"1399240800" entry:"1399012310" imask:"4" modified:"1399272908" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399272908" status:"pending" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+---
+time 1399272990
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++-+X-" modified:"1399272908" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X-" modified:"1399272990" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399272990
+old [description:"Setup" due:"1399240800" entry:"1399012310" imask:"4" modified:"1399272908" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399272908" status:"pending" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+new [description:"Setup" due:"1399240800" end:"1399272990" entry:"1399012310" imask:"4" modified:"1399272990" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399272908" status:"completed" uuid:"6f8754d9-9460-490e-922d-d911bd6e05a2"]
+---
+time 1399273002
+old [description:"tmux" entry:"1399272614" project:"learning" status:"pending" uuid:"27f18e24-a0cb-4b30-a7f6-08d75895bc53"]
+new [description:"tmux" entry:"1399272614" modified:"1399273002" project:"learning" start:"1399273002" status:"pending" uuid:"27f18e24-a0cb-4b30-a7f6-08d75895bc53"]
+---
+time 1399275804
+new [description:"waala au Blue Monet" entry:"1399275804" status:"pending" uuid:"8973b03e-3d42-495b-9587-b9e57b8976b8"]
+---
+time 1399275809
+old [description:"waala au Blue Monet" entry:"1399275804" status:"pending" uuid:"8973b03e-3d42-495b-9587-b9e57b8976b8"]
+new [description:"waala au Blue Monet" entry:"1399275804" modified:"1399275809" start:"1399275809" status:"pending" uuid:"8973b03e-3d42-495b-9587-b9e57b8976b8"]
+---
+time 1399276931
+new [description:"script facilitare grep" entry:"1399276931" project:"backlog" status:"pending" uuid:"df0aa6b4-6536-4d24-8b72-b86f73a0f406"]
+---
+time 1399280493
+new [description:"add RE: Subscription check on BlackFlag" entry:"1399280493" project:"work" status:"pending" uuid:"84284315-f51b-4774-bbe2-2f413f6ddb71"]
+---
+time 1399296077
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"+++--" modified:"1399272393" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++-" modified:"1399296077" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399296077
+old [description:"inglese" due:"1399240800" entry:"1399272393" imask:"3" modified:"1399044327" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"bba79a22-5d06-4144-880c-17244a1de701"]
+new [description:"inglese" due:"1399240800" end:"1399296077" entry:"1399272393" imask:"3" modified:"1399296077" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"bba79a22-5d06-4144-880c-17244a1de701"]
+---
+time 1399296111
+old [description:"add RE: Subscription check on BlackFlag" entry:"1399280493" project:"work" status:"pending" uuid:"84284315-f51b-4774-bbe2-2f413f6ddb71"]
+new [description:"add RE: Subscription check on BlackFlag" end:"1399296106" entry:"1399280493" modified:"1399296111" project:"work" status:"deleted" uuid:"84284315-f51b-4774-bbe2-2f413f6ddb71"]
+---
+time 1399296283
+old [description:"waala au Blue Monet" entry:"1399275804" modified:"1399275809" start:"1399275809" status:"pending" uuid:"8973b03e-3d42-495b-9587-b9e57b8976b8"]
+new [description:"waala au Blue Monet" end:"1399296283" entry:"1399275804" modified:"1399296283" start:"1399275809" status:"completed" uuid:"8973b03e-3d42-495b-9587-b9e57b8976b8"]
+---
+time 1399296787
+old [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" entry:"1398756467" modified:"1399013059" project:"work" status:"pending" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+new [annotation_1398846259:"qa &open;662417&close;" description:"speed dnlogic deploy &open;661099&close;" end:"1399296787" entry:"1398756467" modified:"1399296787" project:"work" status:"completed" uuid:"6ee297d9-ad9f-4cae-b8c6-65f81060653e"]
+---
+time 1399296797
+old [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399041643" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399296797" start:"1399296797" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399337486
+new [description:"escalation blackflag dove è" entry:"1399337486" project:"support" status:"pending" uuid:"d75e2bae-b07f-4989-855b-6f25f7d1b9ee"]
+---
+time 1399337492
+new [description:"capire email di Jaime" entry:"1399337492" project:"support" status:"pending" uuid:"3bbd712e-c692-495f-a311-f6e7dc0e45d6"]
+---
+time 1399361673
+new [description:"css course" due:"1399932000" entry:"1399361673" imask:"2" modified:"1398752877" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+---
+time 1399361673
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+-" modified:"1398752877" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399361673" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399361673
+new [description:"Setup" due:"1399413600" entry:"1399361673" imask:"8" modified:"1399272990" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"32abd54f-c21d-411c-8666-20e4b527b121"]
+---
+time 1399361673
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X-" modified:"1399272990" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X--" modified:"1399361673" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399362702
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X--" modified:"1399361673" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X--" modified:"1399362702" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399362702
+old [description:"Setup" due:"1399327200" entry:"1399272393" imask:"7" modified:"1399017100" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"391eaf44-7bc1-4d86-8dba-ce44d83fe1ed"]
+new [description:"Setup" due:"1399327200" entry:"1399272393" imask:"7" modified:"1399362702" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399362702" status:"pending" uuid:"391eaf44-7bc1-4d86-8dba-ce44d83fe1ed"]
+---
+time 1399363144
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X--" modified:"1399362702" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+-" modified:"1399363144" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399363144
+old [description:"Setup" due:"1399327200" entry:"1399272393" imask:"7" modified:"1399362702" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399362702" status:"pending" uuid:"391eaf44-7bc1-4d86-8dba-ce44d83fe1ed"]
+new [description:"Setup" due:"1399327200" end:"1399363144" entry:"1399272393" imask:"7" modified:"1399363144" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399362702" status:"completed" uuid:"391eaf44-7bc1-4d86-8dba-ce44d83fe1ed"]
+---
+time 1399364754
+old [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" entry:"1399033599" modified:"1399296797" start:"1399296797" status:"pending" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+new [annotation_1399038000:"trunk commit 22869" annotation_1399038031:"qa 662797" description:"amazon email &open;662100&close;" end:"1399364754" entry:"1399033599" modified:"1399364754" start:"1399296797" status:"completed" urgency:"H" uuid:"08043960-531a-498f-a45c-6600e19a4a31"]
+---
+time 1399364782
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399361673" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399364782" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399364782
+old [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1398752877" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"learning" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+new [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1399364782" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+---
+time 1399364786
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399364782" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399364786" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399364786
+old [description:"css course" due:"1399932000" entry:"1399361673" imask:"2" modified:"1398752877" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+new [description:"css course" due:"1399932000" entry:"1399361673" imask:"2" modified:"1399364786" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"work" recur:"weekly" status:"pending" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+---
+time 1399364817
+old [description:"capire email di Jaime" entry:"1399337492" project:"support" status:"pending" uuid:"3bbd712e-c692-495f-a311-f6e7dc0e45d6"]
+new [description:"capire email di Jaime" end:"1399364817" entry:"1399337492" modified:"1399364817" project:"support" status:"completed" uuid:"3bbd712e-c692-495f-a311-f6e7dc0e45d6"]
+---
+time 1399364846
+old [description:"escalation blackflag dove è" entry:"1399337486" project:"support" status:"pending" uuid:"d75e2bae-b07f-4989-855b-6f25f7d1b9ee"]
+new [description:"escalation blackflag dove è" entry:"1399337486" modified:"1399364846" project:"support" start:"1399364846" status:"pending" uuid:"d75e2bae-b07f-4989-855b-6f25f7d1b9ee"]
+---
+time 1399365039
+old [description:"escalation blackflag dove è" entry:"1399337486" modified:"1399364846" project:"support" start:"1399364846" status:"pending" uuid:"d75e2bae-b07f-4989-855b-6f25f7d1b9ee"]
+new [description:"escalation blackflag dove è" end:"1399365039" entry:"1399337486" modified:"1399365039" project:"support" start:"1399364846" status:"completed" uuid:"d75e2bae-b07f-4989-855b-6f25f7d1b9ee"]
+---
+time 1399386852
+new [description:"change_password" entry:"1399386852" project:"work" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399386858
+old [description:"change_password" entry:"1399386852" project:"work" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [description:"change_password" entry:"1399386852" modified:"1399386858" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399386862
+old [description:"tmux" entry:"1399272614" modified:"1399273002" project:"learning" start:"1399273002" status:"pending" uuid:"27f18e24-a0cb-4b30-a7f6-08d75895bc53"]
+new [description:"tmux" end:"1399386862" entry:"1399272614" modified:"1399386862" project:"learning" start:"1399273002" status:"completed" uuid:"27f18e24-a0cb-4b30-a7f6-08d75895bc53"]
+---
+time 1399386877
+old [description:"Waala AU $ missing" entry:"1399016501" modified:"1399035680" status:"pending" urgency:"H" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+new [description:"Waala AU $ missing" end:"1399386877" entry:"1399016501" modified:"1399386877" status:"completed" urgency:"H" uuid:"4cf7b76a-bc6c-4fd5-9786-39d9920ba7b6"]
+---
+time 1399392076
+old [description:"change_password" entry:"1399386852" modified:"1399386858" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [annotation_1399392076:"commit" description:"change_password" entry:"1399386852" modified:"1399392076" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399392090
+old [annotation_1399392076:"commit" description:"change_password" entry:"1399386852" modified:"1399392076" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [annotation_1399392076:"commit" annotation_1399392090:"commit 22892" description:"change_password" entry:"1399386852" modified:"1399392090" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399392112
+old [annotation_1399392076:"commit" annotation_1399392090:"commit 22892" description:"change_password" entry:"1399386852" modified:"1399392090" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [annotation_1399392076:"commit" annotation_1399392090:"commit 22892" annotation_1399392112:"qa 663275" description:"change_password" entry:"1399386852" modified:"1399392112" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399392128
+old [annotation_1399392076:"commit" annotation_1399392090:"commit 22892" annotation_1399392112:"qa 663275" description:"change_password" entry:"1399386852" modified:"1399392112" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [annotation_1399392090:"commit 22892" annotation_1399392113:"qa 663275" description:"change_password" entry:"1399386852" modified:"1399392128" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399442336
+new [description:"inglese" due:"1399586400" entry:"1399442336" imask:"5" modified:"1399296077" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"e212bd6d-715b-4bf3-8dde-c3b4ddc9e8c5"]
+---
+time 1399442336
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++-" modified:"1399296077" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++--" modified:"1399442336" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399442336
+new [description:"Setup" due:"1399500000" entry:"1399442336" imask:"9" modified:"1399363144" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"85784397-6e7a-4968-abdf-af9cd4cefb96"]
+---
+time 1399442336
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+-" modified:"1399363144" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+--" modified:"1399442336" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399443772
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+--" modified:"1399442336" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+--" modified:"1399443772" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399443772
+old [description:"Setup" due:"1399413600" entry:"1399361673" imask:"8" modified:"1399272990" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"32abd54f-c21d-411c-8666-20e4b527b121"]
+new [description:"Setup" due:"1399413600" entry:"1399361673" imask:"8" modified:"1399443772" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399443772" status:"pending" uuid:"32abd54f-c21d-411c-8666-20e4b527b121"]
+---
+time 1399443887
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+--" modified:"1399443772" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++-" modified:"1399443887" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399443887
+old [description:"Setup" due:"1399413600" entry:"1399361673" imask:"8" modified:"1399443772" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399443772" status:"pending" uuid:"32abd54f-c21d-411c-8666-20e4b527b121"]
+new [description:"Setup" due:"1399413600" end:"1399443887" entry:"1399361673" imask:"8" modified:"1399443887" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399443772" status:"completed" uuid:"32abd54f-c21d-411c-8666-20e4b527b121"]
+---
+time 1399443920
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++--" modified:"1399442336" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++--" modified:"1399443920" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399443920
+old [description:"inglese" due:"1399413600" entry:"1399272393" imask:"4" modified:"1399044327" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"9f5aba0c-99be-4ec4-8e1c-dcfdbc98c0a0"]
+new [description:"inglese" due:"1399413600" entry:"1399272393" imask:"4" modified:"1399443920" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"pending" uuid:"9f5aba0c-99be-4ec4-8e1c-dcfdbc98c0a0"]
+---
+time 1399443922
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++--" modified:"1399443920" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++--" modified:"1399443922" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399443922
+old [description:"inglese" due:"1399586400" entry:"1399442336" imask:"5" modified:"1399296077" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"e212bd6d-715b-4bf3-8dde-c3b4ddc9e8c5"]
+new [description:"inglese" due:"1399586400" entry:"1399442336" imask:"5" modified:"1399443922" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"pending" uuid:"e212bd6d-715b-4bf3-8dde-c3b4ddc9e8c5"]
+---
+time 1399443961
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399364786" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399443961" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399443961
+old [description:"css course" due:"1399932000" entry:"1399361673" imask:"2" modified:"1399364786" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"work" recur:"weekly" status:"pending" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+new [description:"css course" due:"1399932000" entry:"1399361673" imask:"2" modified:"1399443961" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"pending" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+---
+time 1399443963
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399443961" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399443963" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399443963
+old [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1399364782" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+new [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1399443963" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+---
+time 1399529678
+new [description:"Setup" due:"1399586400" entry:"1399529678" imask:"10" modified:"1399443887" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"8a0366c0-d502-4355-a998-fd02fc165ab6"]
+---
+time 1399529678
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++-" modified:"1399443887" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++--" modified:"1399529678" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399529688
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++--" modified:"1399529678" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++--" modified:"1399529688" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399529688
+old [description:"Setup" due:"1399500000" entry:"1399442336" imask:"9" modified:"1399363144" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"85784397-6e7a-4968-abdf-af9cd4cefb96"]
+new [description:"Setup" due:"1399500000" entry:"1399442336" imask:"9" modified:"1399529688" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399529688" status:"pending" uuid:"85784397-6e7a-4968-abdf-af9cd4cefb96"]
+---
+time 1399529693
+old [annotation_1399392090:"commit 22892" annotation_1399392113:"qa 663275" description:"change_password" entry:"1399386852" modified:"1399392128" project:"work" start:"1399386858" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [annotation_1399392090:"commit 22892" annotation_1399392113:"qa 663275" description:"change_password" entry:"1399386852" modified:"1399529693" project:"work" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399529710
+new [description:"netsize be dmq" entry:"1399529710" project:"support" status:"pending" uuid:"1c2d27c6-1546-42ef-9bb1-fe82780059e4"]
+---
+time 1399529763
+old [description:"netsize be dmq" entry:"1399529710" project:"support" status:"pending" uuid:"1c2d27c6-1546-42ef-9bb1-fe82780059e4"]
+new [description:"netsize be dmq" entry:"1399529710" modified:"1399529763" project:"support" start:"1399529763" status:"pending" uuid:"1c2d27c6-1546-42ef-9bb1-fe82780059e4"]
+---
+time 1399534660
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++--" modified:"1399529688" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+++-" modified:"1399534660" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399534660
+old [description:"Setup" due:"1399500000" entry:"1399442336" imask:"9" modified:"1399529688" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399529688" status:"pending" uuid:"85784397-6e7a-4968-abdf-af9cd4cefb96"]
+new [description:"Setup" due:"1399500000" end:"1399534660" entry:"1399442336" imask:"9" modified:"1399534660" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399529688" status:"completed" uuid:"85784397-6e7a-4968-abdf-af9cd4cefb96"]
+---
+time 1399534675
+old [description:"spiega flusso blackflag a Massimiliano" entry:"1398850412" project:"work" status:"pending" uuid:"44f1d944-d377-4277-b833-f58cbf2b49a7"]
+new [description:"spiega flusso blackflag a Massimiliano" end:"1399534675" entry:"1398850412" modified:"1399534675" project:"work" status:"completed" uuid:"44f1d944-d377-4277-b833-f58cbf2b49a7"]
+---
+time 1399534690
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++--" modified:"1399443922" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++X-" modified:"1399534690" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399534690
+old [description:"inglese" due:"1399413600" entry:"1399272393" imask:"4" modified:"1399443920" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"pending" uuid:"9f5aba0c-99be-4ec4-8e1c-dcfdbc98c0a0"]
+new [description:"inglese" due:"1399413600" end:"1399534686" entry:"1399272393" imask:"4" modified:"1399534690" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"deleted" uuid:"9f5aba0c-99be-4ec4-8e1c-dcfdbc98c0a0"]
+---
+time 1399537675
+old [description:"netsize be dmq" entry:"1399529710" modified:"1399529763" project:"support" start:"1399529763" status:"pending" uuid:"1c2d27c6-1546-42ef-9bb1-fe82780059e4"]
+new [description:"netsize be dmq" end:"1399537675" entry:"1399529710" modified:"1399537675" project:"support" start:"1399529763" status:"completed" uuid:"1c2d27c6-1546-42ef-9bb1-fe82780059e4"]
+---
+time 1399538438
+new [description:"spoc meeting" entry:"1399538438" project:"support" status:"pending" uuid:"1cc5f8e6-b33d-47f1-b3aa-2cc575563e38"]
+---
+time 1399539571
+old [description:"spoc meeting" entry:"1399538438" project:"support" status:"pending" uuid:"1cc5f8e6-b33d-47f1-b3aa-2cc575563e38"]
+new [description:"spoc meeting" entry:"1399538438" modified:"1399539571" project:"support" start:"1399539571" status:"pending" uuid:"1cc5f8e6-b33d-47f1-b3aa-2cc575563e38"]
+---
+time 1399617810
+new [description:"inglese" due:"1399759200" entry:"1399617810" imask:"6" modified:"1399534690" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"d8415d86-09d9-451c-87ed-7062fa7f80df"]
+---
+time 1399617810
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++X-" modified:"1399534690" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++X--" modified:"1399617810" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399617810
+new [description:"Setup" due:"1399672800" entry:"1399617810" imask:"11" modified:"1399534660" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"86bdd5a7-5123-4226-9e60-c8f98bd39cd2"]
+---
+time 1399617810
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+++-" modified:"1399534660" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+++--" modified:"1399617810" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399617823
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X+++--" modified:"1399617810" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++-" modified:"1399617823" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399617823
+old [description:"Setup" due:"1399586400" entry:"1399529678" imask:"10" modified:"1399443887" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"8a0366c0-d502-4355-a998-fd02fc165ab6"]
+new [description:"Setup" due:"1399586400" end:"1399617823" entry:"1399529678" imask:"10" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"8a0366c0-d502-4355-a998-fd02fc165ab6"]
+---
+time 1399617828
+old [description:"spoc meeting" entry:"1399538438" modified:"1399539571" project:"support" start:"1399539571" status:"pending" uuid:"1cc5f8e6-b33d-47f1-b3aa-2cc575563e38"]
+new [description:"spoc meeting" end:"1399617828" entry:"1399538438" modified:"1399617828" project:"support" start:"1399539571" status:"completed" uuid:"1cc5f8e6-b33d-47f1-b3aa-2cc575563e38"]
+---
+time 1399624286
+new [description:"templates email" entry:"1399624286" project:"work" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1399624290
+old [description:"templates email" entry:"1399624286" project:"work" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+new [description:"templates email" entry:"1399624286" modified:"1399624290" project:"work" start:"1399624290" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1399624351
+old [description:"templates email" entry:"1399624286" modified:"1399624290" project:"work" start:"1399624290" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+new [annotation_1399624351:"qa ticket 663859" description:"templates email" entry:"1399624286" modified:"1399624351" project:"work" start:"1399624290" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1399624397
+old [annotation_1399624351:"qa ticket 663859" description:"templates email" entry:"1399624286" modified:"1399624351" project:"work" start:"1399624290" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+new [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" entry:"1399624286" modified:"1399624397" project:"work" start:"1399624290" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1399627456
+old [description:"client engate" entry:"1398850479" project:"work" status:"pending" uuid:"daac501f-1de8-41ce-bb0a-d4be9b0d9703"]
+new [description:"client engate" entry:"1398850479" modified:"1399627456" project:"work" start:"1399627456" status:"pending" uuid:"daac501f-1de8-41ce-bb0a-d4be9b0d9703"]
+---
+time 1399627465
+old [annotation_1398754158:"recall in an hour if problem is not taken" depends:"daac501f-1de8-41ce-bb0a-d4be9b0d9703" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1398850488" priority:"H" project:"support" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398754158:"recall in an hour if problem is not taken" depends:"daac501f-1de8-41ce-bb0a-d4be9b0d9703" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1399627465" priority:"H" project:"support" start:"1399627465" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1399627469
+old [description:"client engate" entry:"1398850479" modified:"1399627456" project:"work" start:"1399627456" status:"pending" uuid:"daac501f-1de8-41ce-bb0a-d4be9b0d9703"]
+new [description:"client engate" end:"1399627469" entry:"1398850479" modified:"1399627469" project:"work" start:"1399627456" status:"completed" uuid:"daac501f-1de8-41ce-bb0a-d4be9b0d9703"]
+---
+time 1399627486
+old [annotation_1398754158:"recall in an hour if problem is not taken" depends:"daac501f-1de8-41ce-bb0a-d4be9b0d9703" description:"Waala 1.0 subscriptions broken from friday 25" entry:"1398671672" modified:"1399627465" priority:"H" project:"support" start:"1399627465" status:"pending" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+new [annotation_1398754158:"recall in an hour if problem is not taken" depends:"daac501f-1de8-41ce-bb0a-d4be9b0d9703" description:"Waala 1.0 subscriptions broken from friday 25" end:"1399627486" entry:"1398671672" modified:"1399627486" priority:"H" project:"support" start:"1399627465" status:"completed" tags:"support" uuid:"e3acc6e5-70bf-4648-af28-9d28808cde53"]
+---
+time 1399628607
+old [annotation_1399392090:"commit 22892" annotation_1399392113:"qa 663275" description:"change_password" entry:"1399386852" modified:"1399529693" project:"work" status:"pending" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+new [annotation_1399392090:"commit 22892" annotation_1399392113:"qa 663275" description:"change_password" end:"1399628607" entry:"1399386852" modified:"1399628607" project:"work" status:"completed" uuid:"8a83024c-9460-47f6-9ae1-39d0e399599a"]
+---
+time 1399628905
+new [description:"pavucontrol default earplug" entry:"1399628905" project:"config" status:"pending" uuid:"7ea34344-bca3-426d-a1be-d44899038f35"]
+---
+time 1399629392
+new [description:"remove cache from dropbox" entry:"1399629392" project:"config" status:"pending" uuid:"f022de61-5ae6-41c0-a24e-402948300160"]
+---
+time 1399875752
+new [description:"inglese" due:"1399932000" entry:"1399875752" imask:"7" modified:"1399617810" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"e702ee8e-5787-4b1e-8c82-7b37a6cb0d4f"]
+---
+time 1399875752
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++X--" modified:"1399617810" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++X---" modified:"1399875752" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399875752
+new [description:"Setup" due:"1399759200" entry:"1399875752" imask:"12" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"8a443129-3f59-46d5-9134-0eb1b614ccc5"]
+---
+time 1399875752
+new [description:"Setup" due:"1399845600" entry:"1399875752" imask:"13" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f5048955-17d8-4837-aa4b-c70122b904d6"]
+---
+time 1399875752
+new [description:"Setup" due:"1399932000" entry:"1399875752" imask:"14" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"7a489c0d-bc0b-4700-9110-e285fba7c4ba"]
+---
+time 1399875752
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++-" modified:"1399617823" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++----" modified:"1399875752" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399875784
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+--" modified:"1399443963" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+X-" modified:"1399875784" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399875784
+old [description:"css course" due:"1399327200" entry:"1398752597" imask:"1" modified:"1399443963" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"pending" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+new [description:"css course" due:"1399327200" end:"1399875780" entry:"1398752597" imask:"1" modified:"1399875784" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"deleted" uuid:"540c23ca-a46d-4801-a335-5194a3115c38"]
+---
+time 1399875787
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++X---" modified:"1399875752" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XX--" modified:"1399875787" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399875787
+old [description:"inglese" due:"1399586400" entry:"1399442336" imask:"5" modified:"1399443922" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"pending" uuid:"e212bd6d-715b-4bf3-8dde-c3b4ddc9e8c5"]
+new [description:"inglese" due:"1399586400" end:"1399875787" entry:"1399442336" imask:"5" modified:"1399875787" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"learning" recur:"2daily" status:"deleted" uuid:"e212bd6d-715b-4bf3-8dde-c3b4ddc9e8c5"]
+---
+time 1399875788
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XX--" modified:"1399875787" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX-" modified:"1399875788" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399875788
+old [description:"inglese" due:"1399759200" entry:"1399617810" imask:"6" modified:"1399534690" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"d8415d86-09d9-451c-87ed-7062fa7f80df"]
+new [description:"inglese" due:"1399759200" end:"1399875788" entry:"1399617810" imask:"6" modified:"1399875788" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"d8415d86-09d9-451c-87ed-7062fa7f80df"]
+---
+time 1399875789
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++----" modified:"1399875752" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++X---" modified:"1399875789" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399875789
+old [description:"Setup" due:"1399672800" entry:"1399617810" imask:"11" modified:"1399534660" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"86bdd5a7-5123-4226-9e60-c8f98bd39cd2"]
+new [description:"Setup" due:"1399672800" end:"1399875789" entry:"1399617810" imask:"11" modified:"1399875789" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"86bdd5a7-5123-4226-9e60-c8f98bd39cd2"]
+---
+time 1399875790
+old [description:"pavucontrol default earplug" entry:"1399628905" project:"config" status:"pending" uuid:"7ea34344-bca3-426d-a1be-d44899038f35"]
+new [description:"pavucontrol default earplug" end:"1399875790" entry:"1399628905" modified:"1399875790" project:"config" status:"deleted" uuid:"7ea34344-bca3-426d-a1be-d44899038f35"]
+---
+time 1399875817
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++X---" modified:"1399875789" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX--" modified:"1399875817" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399875817
+old [description:"Setup" due:"1399759200" entry:"1399875752" imask:"12" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"8a443129-3f59-46d5-9134-0eb1b614ccc5"]
+new [description:"Setup" due:"1399759200" end:"1399875815" entry:"1399875752" imask:"12" modified:"1399875817" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"8a443129-3f59-46d5-9134-0eb1b614ccc5"]
+---
+time 1399876366
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX--" modified:"1399875817" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX--" modified:"1399876366" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399876366
+old [description:"Setup" due:"1399845600" entry:"1399875752" imask:"13" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f5048955-17d8-4837-aa4b-c70122b904d6"]
+new [description:"Setup" due:"1399845600" entry:"1399875752" imask:"13" modified:"1399876366" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399876366" status:"pending" uuid:"f5048955-17d8-4837-aa4b-c70122b904d6"]
+---
+time 1399876885
+new [description:"work:pro put template staging" entry:"1399876885" status:"pending" uuid:"f1ff322d-9b21-45b6-b21d-f4fe3dce1f43"]
+---
+time 1399878881
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX--" modified:"1399876366" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+-" modified:"1399878881" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399878881
+old [description:"Setup" due:"1399845600" entry:"1399875752" imask:"13" modified:"1399876366" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399876366" status:"pending" uuid:"f5048955-17d8-4837-aa4b-c70122b904d6"]
+new [description:"Setup" due:"1399845600" end:"1399878881" entry:"1399875752" imask:"13" modified:"1399878881" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1399876366" status:"completed" uuid:"f5048955-17d8-4837-aa4b-c70122b904d6"]
+---
+time 1399879171
+old [description:"remove cache from dropbox" entry:"1399629392" project:"config" status:"pending" uuid:"f022de61-5ae6-41c0-a24e-402948300160"]
+new [description:"remove cache from dropbox" entry:"1399629392" modified:"1399879171" project:"config" start:"1399879171" status:"pending" uuid:"f022de61-5ae6-41c0-a24e-402948300160"]
+---
+time 1399879841
+old [description:"remove cache from dropbox" entry:"1399629392" modified:"1399879171" project:"config" start:"1399879171" status:"pending" uuid:"f022de61-5ae6-41c0-a24e-402948300160"]
+new [description:"remove cache from dropbox" end:"1399879841" entry:"1399629392" modified:"1399879841" project:"config" start:"1399879171" status:"completed" uuid:"f022de61-5ae6-41c0-a24e-402948300160"]
+---
+time 1399879945
+new [description:"task" entry:"1399879945" project:"work" status:"pending" uuid:"8b59c257-a7fe-4a35-b647-71f021ce27da"]
+---
+time 1399879954
+new [description:"investigation" entry:"1399879954" project:"pp1" status:"pending" uuid:"4f556bfd-d282-444f-9b75-7419960bbe2d"]
+---
+time 1399879956
+old [description:"investigation" entry:"1399879954" project:"pp1" status:"pending" uuid:"4f556bfd-d282-444f-9b75-7419960bbe2d"]
+new [description:"investigation" entry:"1399879954" modified:"1399879956" project:"pp1" start:"1399879956" status:"pending" uuid:"4f556bfd-d282-444f-9b75-7419960bbe2d"]
+---
+time 1399881619
+old [description:"work:pro put template staging" entry:"1399876885" status:"pending" uuid:"f1ff322d-9b21-45b6-b21d-f4fe3dce1f43"]
+new [description:"work:pro put template staging" end:"1399881619" entry:"1399876885" modified:"1399881619" status:"completed" uuid:"f1ff322d-9b21-45b6-b21d-f4fe3dce1f43"]
+---
+time 1399882459
+old [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" entry:"1399624286" modified:"1399624397" project:"work" start:"1399624290" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+new [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" entry:"1399624286" modified:"1399882459" project:"work" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1399882468
+old [description:"task" entry:"1399879945" project:"work" status:"pending" uuid:"8b59c257-a7fe-4a35-b647-71f021ce27da"]
+new [description:"task" end:"1399882465" entry:"1399879945" modified:"1399882468" project:"work" status:"deleted" uuid:"8b59c257-a7fe-4a35-b647-71f021ce27da"]
+---
+time 1399964530
+new [description:"inglese" due:"1400104800" entry:"1399964530" imask:"8" modified:"1399875788" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"88c02c6b-13e7-49aa-8112-09d0247823ce"]
+---
+time 1399964530
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX-" modified:"1399875788" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX--" modified:"1399964530" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399964530
+new [description:"css course" due:"1400536800" entry:"1399964530" imask:"3" modified:"1399875784" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"cabb31b8-db26-4a58-aabb-e9c46b27bf9e"]
+---
+time 1399964530
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+X-" modified:"1399875784" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+X--" modified:"1399964530" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1399964530
+new [description:"Setup" due:"1400018400" entry:"1399964530" imask:"15" modified:"1399878881" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"3a6fef37-1b33-4c4c-b7af-5e89a00446bf"]
+---
+time 1399964530
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+-" modified:"1399878881" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+--" modified:"1399964530" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1399968261
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX--" modified:"1399964530" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX--" modified:"1399968261" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399968261
+old [description:"inglese" due:"1399932000" entry:"1399875752" imask:"7" modified:"1399617810" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"e702ee8e-5787-4b1e-8c82-7b37a6cb0d4f"]
+new [description:"inglese" due:"1399932000" entry:"1399875752" imask:"7" modified:"1399968261" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"3days" status:"pending" uuid:"e702ee8e-5787-4b1e-8c82-7b37a6cb0d4f"]
+---
+time 1399968266
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX--" modified:"1399968261" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX--" modified:"1399968266" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1399968266
+old [description:"inglese" due:"1400104800" entry:"1399964530" imask:"8" modified:"1399875788" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"88c02c6b-13e7-49aa-8112-09d0247823ce"]
+new [description:"inglese" due:"1400104800" entry:"1399964530" imask:"8" modified:"1399968266" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"3days" status:"pending" uuid:"88c02c6b-13e7-49aa-8112-09d0247823ce"]
+---
+time 1400048808
+new [description:"Setup" due:"1400104800" entry:"1400048808" imask:"16" modified:"1399964530" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"a1348216-f91e-468c-922a-dab02998d8f3"]
+---
+time 1400048808
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+--" modified:"1399964530" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+---" modified:"1400048808" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400048842
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+---" modified:"1400048808" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+--+" modified:"1400048842" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400048842
+old [description:"Setup" due:"1400104800" entry:"1400048808" imask:"16" modified:"1399964530" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"a1348216-f91e-468c-922a-dab02998d8f3"]
+new [description:"Setup" due:"1400104800" end:"1400048842" entry:"1400048808" imask:"16" modified:"1400048842" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"a1348216-f91e-468c-922a-dab02998d8f3"]
+---
+time 1400048850
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+--+" modified:"1400048842" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+--+" modified:"1400048850" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400048850
+old [description:"Setup" due:"1400018400" entry:"1399964530" imask:"15" modified:"1399878881" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"3a6fef37-1b33-4c4c-b7af-5e89a00446bf"]
+new [description:"Setup" due:"1400018400" entry:"1399964530" imask:"15" modified:"1400048850" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400048850" status:"pending" uuid:"3a6fef37-1b33-4c4c-b7af-5e89a00446bf"]
+---
+time 1400049191
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+--+" modified:"1400048850" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+-++" modified:"1400049191" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400049191
+old [description:"Setup" due:"1400018400" entry:"1399964530" imask:"15" modified:"1400048850" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400048850" status:"pending" uuid:"3a6fef37-1b33-4c4c-b7af-5e89a00446bf"]
+new [description:"Setup" due:"1400018400" end:"1400049191" entry:"1399964530" imask:"15" modified:"1400049191" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400048850" status:"completed" uuid:"3a6fef37-1b33-4c4c-b7af-5e89a00446bf"]
+---
+time 1400049215
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+-++" modified:"1400049191" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX++++" modified:"1400049215" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400049215
+old [description:"Setup" due:"1399932000" entry:"1399875752" imask:"14" modified:"1399617823" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"7a489c0d-bc0b-4700-9110-e285fba7c4ba"]
+new [description:"Setup" due:"1399932000" end:"1400049215" entry:"1399875752" imask:"14" modified:"1400049215" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"7a489c0d-bc0b-4700-9110-e285fba7c4ba"]
+---
+time 1400049226
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+X--" modified:"1399964530" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+XX-" modified:"1400049226" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1400049226
+old [description:"css course" due:"1399932000" entry:"1399361673" imask:"2" modified:"1399443961" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"pending" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+new [description:"css course" due:"1399932000" end:"1400049225" entry:"1399361673" imask:"2" modified:"1400049226" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" priority:"L" project:"learning" recur:"weekly" status:"deleted" uuid:"8bd1cbe4-015c-4336-be12-b6f86ff970fd"]
+---
+time 1400049228
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+XX-" modified:"1400049226" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" entry:"1398671437" mask:"+XXX" modified:"1400049228" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1400049228
+old [description:"css course" due:"1400536800" entry:"1399964530" imask:"3" modified:"1399875784" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"pending" uuid:"cabb31b8-db26-4a58-aabb-e9c46b27bf9e"]
+new [description:"css course" due:"1400536800" end:"1400049228" entry:"1399964530" imask:"3" modified:"1400049228" parent:"eddec91c-1eb8-43b2-848f-d5a348f888ba" project:"work" recur:"weekly" status:"deleted" uuid:"cabb31b8-db26-4a58-aabb-e9c46b27bf9e"]
+---
+time 1400049228
+old [description:"css course" due:"1398722400" entry:"1398671437" mask:"+XXX" modified:"1400049228" project:"work" recur:"weekly" status:"recurring" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+new [description:"css course" due:"1398722400" end:"1400049228" entry:"1398671437" mask:"+XXX" modified:"1400049228" project:"work" recur:"weekly" status:"deleted" uuid:"eddec91c-1eb8-43b2-848f-d5a348f888ba"]
+---
+time 1400049445
+old [description:"investigation" entry:"1399879954" modified:"1399879956" project:"pp1" start:"1399879956" status:"pending" uuid:"4f556bfd-d282-444f-9b75-7419960bbe2d"]
+new [description:"investigation" end:"1400049445" entry:"1399879954" modified:"1400049445" project:"pp1" start:"1399879956" status:"completed" uuid:"4f556bfd-d282-444f-9b75-7419960bbe2d"]
+---
+time 1400069115
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX--" modified:"1399968266" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+-" modified:"1400069115" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400069115
+old [description:"inglese" due:"1399932000" entry:"1399875752" imask:"7" modified:"1399968261" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"3days" status:"pending" uuid:"e702ee8e-5787-4b1e-8c82-7b37a6cb0d4f"]
+new [description:"inglese" due:"1399932000" end:"1400069115" entry:"1399875752" imask:"7" modified:"1400069115" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"3days" status:"completed" uuid:"e702ee8e-5787-4b1e-8c82-7b37a6cb0d4f"]
+---
+time 1400069137
+new [description:"blackflag revert" entry:"1400069137" status:"pending" uuid:"6972b6a0-5d9a-4167-b118-0c47ca47af6c"]
+---
+time 1400069748
+old [description:"blackflag revert" entry:"1400069137" status:"pending" uuid:"6972b6a0-5d9a-4167-b118-0c47ca47af6c"]
+new [description:"blackflag revert" entry:"1400069137" modified:"1400069748" start:"1400069748" status:"pending" uuid:"6972b6a0-5d9a-4167-b118-0c47ca47af6c"]
+---
+time 1400139200
+new [description:"inglese" due:"1400277600" entry:"1400139200" imask:"9" modified:"1400069115" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"db6b0914-f261-491e-a35d-6892dceb85e1"]
+---
+time 1400139200
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+-" modified:"1400069115" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+--" modified:"1400139200" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400139200
+new [description:"Setup" due:"1400191200" entry:"1400139200" imask:"17" modified:"1400049215" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"2f2ed4cc-ef60-47dd-a3d2-35e15f7f198d"]
+---
+time 1400139200
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX++++" modified:"1400049215" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX++++-" modified:"1400139200" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400139880
+old [description:"script facilitare grep" entry:"1399276931" project:"backlog" status:"pending" uuid:"df0aa6b4-6536-4d24-8b72-b86f73a0f406"]
+new [description:"script facilitare grep" entry:"1399276931" modified:"1400139880" project:"backlog" start:"1400139880" status:"pending" uuid:"df0aa6b4-6536-4d24-8b72-b86f73a0f406"]
+---
+time 1400161043
+old [description:"blackflag revert" entry:"1400069137" modified:"1400069748" start:"1400069748" status:"pending" uuid:"6972b6a0-5d9a-4167-b118-0c47ca47af6c"]
+new [description:"blackflag revert" end:"1400161043" entry:"1400069137" modified:"1400161043" start:"1400069748" status:"completed" uuid:"6972b6a0-5d9a-4167-b118-0c47ca47af6c"]
+---
+time 1400223493
+new [description:"Setup" due:"1400277600" entry:"1400223493" imask:"18" modified:"1400139200" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"1d766c3a-d1ef-413c-9268-5029d0d64521"]
+---
+time 1400223493
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX++++-" modified:"1400139200" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX++++--" modified:"1400223493" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400223523
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX++++--" modified:"1400223493" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++-" modified:"1400223523" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400223523
+old [description:"Setup" due:"1400191200" entry:"1400139200" imask:"17" modified:"1400049215" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"2f2ed4cc-ef60-47dd-a3d2-35e15f7f198d"]
+new [description:"Setup" due:"1400191200" end:"1400223523" entry:"1400139200" imask:"17" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"2f2ed4cc-ef60-47dd-a3d2-35e15f7f198d"]
+---
+time 1400480252
+new [description:"inglese" due:"1400450400" entry:"1400480252" imask:"10" modified:"1400139200" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"8f56b533-4478-45e3-bd86-5227dc2b3fa0"]
+---
+time 1400480252
+new [description:"inglese" due:"1400623200" entry:"1400480252" imask:"11" modified:"1400139200" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"34f3fddc-fc20-48ae-95f5-9d4427dc55a6"]
+---
+time 1400480252
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+--" modified:"1400139200" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+----" modified:"1400480252" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400480252
+new [description:"Setup" due:"1400364000" entry:"1400480252" imask:"19" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4f1cd3bb-39de-4151-b5b6-54ed44699276"]
+---
+time 1400480252
+new [description:"Setup" due:"1400450400" entry:"1400480252" imask:"20" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5a352588-ccb1-495a-9adb-439cbc72a0b6"]
+---
+time 1400480252
+new [description:"Setup" due:"1400536800" entry:"1400480252" imask:"21" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"c00d7717-d088-40cd-991c-7ed64730b51a"]
+---
+time 1400480252
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++-" modified:"1400223523" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++----" modified:"1400480252" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400480261
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+----" modified:"1400480252" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+X---" modified:"1400480261" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400480261
+old [description:"inglese" due:"1400104800" entry:"1399964530" imask:"8" modified:"1399968266" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"3days" status:"pending" uuid:"88c02c6b-13e7-49aa-8112-09d0247823ce"]
+new [description:"inglese" due:"1400104800" end:"1400480258" entry:"1399964530" imask:"8" modified:"1400480261" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"3days" status:"deleted" uuid:"88c02c6b-13e7-49aa-8112-09d0247823ce"]
+---
+time 1400480287
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+X---" modified:"1400480261" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX--" modified:"1400480287" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400480287
+old [description:"inglese" due:"1400277600" entry:"1400139200" imask:"9" modified:"1400069115" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"db6b0914-f261-491e-a35d-6892dceb85e1"]
+new [description:"inglese" due:"1400277600" end:"1400480285" entry:"1400139200" imask:"9" modified:"1400480287" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"db6b0914-f261-491e-a35d-6892dceb85e1"]
+---
+time 1400480291
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++----" modified:"1400480252" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++X---" modified:"1400480291" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400480291
+old [description:"Setup" due:"1400277600" entry:"1400223493" imask:"18" modified:"1400139200" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"1d766c3a-d1ef-413c-9268-5029d0d64521"]
+new [description:"Setup" due:"1400277600" end:"1400480291" entry:"1400223493" imask:"18" modified:"1400480291" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"1d766c3a-d1ef-413c-9268-5029d0d64521"]
+---
+time 1400480291
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++X---" modified:"1400480291" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX--" modified:"1400480291" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400480291
+old [description:"Setup" due:"1400364000" entry:"1400480252" imask:"19" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4f1cd3bb-39de-4151-b5b6-54ed44699276"]
+new [description:"Setup" due:"1400364000" end:"1400480291" entry:"1400480252" imask:"19" modified:"1400480291" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"4f1cd3bb-39de-4151-b5b6-54ed44699276"]
+---
+time 1400480305
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX--" modified:"1400480291" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX--" modified:"1400480305" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400480305
+old [description:"Setup" due:"1400450400" entry:"1400480252" imask:"20" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5a352588-ccb1-495a-9adb-439cbc72a0b6"]
+new [description:"Setup" due:"1400450400" entry:"1400480252" imask:"20" modified:"1400480305" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400480305" status:"pending" uuid:"5a352588-ccb1-495a-9adb-439cbc72a0b6"]
+---
+time 1400480433
+new [description:"old carrier lookup" entry:"1400480433" project:"work" status:"pending" uuid:"749d9e6c-c3bb-4427-8c2d-a5666ab45f83"]
+---
+time 1400480439
+old [description:"old carrier lookup" entry:"1400480433" project:"work" status:"pending" uuid:"749d9e6c-c3bb-4427-8c2d-a5666ab45f83"]
+new [description:"old carrier lookup" entry:"1400480433" modified:"1400480439" priority:"H" project:"work" status:"pending" uuid:"749d9e6c-c3bb-4427-8c2d-a5666ab45f83"]
+---
+time 1400482441
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX--" modified:"1400480305" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+-" modified:"1400482441" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400482441
+old [description:"Setup" due:"1400450400" entry:"1400480252" imask:"20" modified:"1400480305" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400480305" status:"pending" uuid:"5a352588-ccb1-495a-9adb-439cbc72a0b6"]
+new [description:"Setup" due:"1400450400" end:"1400482441" entry:"1400480252" imask:"20" modified:"1400482441" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400480305" status:"completed" uuid:"5a352588-ccb1-495a-9adb-439cbc72a0b6"]
+---
+time 1400592830
+new [description:"Setup" due:"1400623200" entry:"1400592830" imask:"22" modified:"1400482441" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"173607a7-3f80-4629-82bf-7e990d966c01"]
+---
+time 1400592830
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+-" modified:"1400482441" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+--" modified:"1400592830" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400592835
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX--" modified:"1400480287" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+-" modified:"1400592835" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400592835
+old [description:"inglese" due:"1400450400" entry:"1400480252" imask:"10" modified:"1400139200" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"8f56b533-4478-45e3-bd86-5227dc2b3fa0"]
+new [description:"inglese" due:"1400450400" end:"1400592835" entry:"1400480252" imask:"10" modified:"1400592835" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"8f56b533-4478-45e3-bd86-5227dc2b3fa0"]
+---
+time 1400592850
+old [description:"script facilitare grep" entry:"1399276931" modified:"1400139880" project:"backlog" start:"1400139880" status:"pending" uuid:"df0aa6b4-6536-4d24-8b72-b86f73a0f406"]
+new [description:"script facilitare grep" end:"1400592850" entry:"1399276931" modified:"1400592850" project:"backlog" start:"1400139880" status:"completed" uuid:"df0aa6b4-6536-4d24-8b72-b86f73a0f406"]
+---
+time 1400592863
+new [description:"amazon test" end:"1400592863" entry:"1400592863" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+---
+time 1400592875
+old [description:"old carrier lookup" entry:"1400480433" modified:"1400480439" priority:"H" project:"work" status:"pending" uuid:"749d9e6c-c3bb-4427-8c2d-a5666ab45f83"]
+new [description:"old carrier lookup" end:"1400592875" entry:"1400480433" modified:"1400592875" priority:"H" project:"work" status:"completed" uuid:"749d9e6c-c3bb-4427-8c2d-a5666ab45f83"]
+---
+time 1400593000
+old [description:"amazon test" end:"1400592863" entry:"1400592863" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+new [annotation_1400593000:"commit" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400593000" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+---
+time 1400593012
+old [annotation_1400593000:"commit" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400593000" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+new [annotation_1400593000:"commit" annotation_1400593012:"commit 22930" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400593012" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+---
+time 1400593026
+old [annotation_1400593000:"commit" annotation_1400593012:"commit 22930" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400593012" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+new [annotation_1400593012:"commit 22930" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400593026" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+---
+time 1400597188
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+--" modified:"1400592830" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX++-" modified:"1400597188" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400597188
+old [description:"Setup" due:"1400536800" entry:"1400480252" imask:"21" modified:"1400223523" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"c00d7717-d088-40cd-991c-7ed64730b51a"]
+new [description:"Setup" due:"1400536800" end:"1400597188" entry:"1400480252" imask:"21" modified:"1400597188" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"c00d7717-d088-40cd-991c-7ed64730b51a"]
+---
+time 1400654532
+new [description:"inglese" due:"1400796000" entry:"1400654532" imask:"12" modified:"1400592835" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"10703408-7478-4611-a95d-b6a983622550"]
+---
+time 1400654532
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+-" modified:"1400592835" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+--" modified:"1400654532" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400654532
+new [description:"Setup" due:"1400709600" entry:"1400654532" imask:"23" modified:"1400597188" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5cb3aff8-c5b9-48ce-ac50-48f3b00d43bb"]
+---
+time 1400654532
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX++-" modified:"1400597188" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX++--" modified:"1400654532" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400654547
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX++--" modified:"1400654532" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX++--" modified:"1400654547" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400654547
+old [description:"Setup" due:"1400623200" entry:"1400592830" imask:"22" modified:"1400482441" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"173607a7-3f80-4629-82bf-7e990d966c01"]
+new [description:"Setup" due:"1400623200" entry:"1400592830" imask:"22" modified:"1400654547" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400654547" status:"pending" uuid:"173607a7-3f80-4629-82bf-7e990d966c01"]
+---
+time 1400654669
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX++--" modified:"1400654547" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++-" modified:"1400654669" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400654669
+old [description:"Setup" due:"1400623200" entry:"1400592830" imask:"22" modified:"1400654547" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400654547" status:"pending" uuid:"173607a7-3f80-4629-82bf-7e990d966c01"]
+new [description:"Setup" due:"1400623200" end:"1400654669" entry:"1400592830" imask:"22" modified:"1400654669" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400654547" status:"completed" uuid:"173607a7-3f80-4629-82bf-7e990d966c01"]
+---
+time 1400654688
+new [description:"fix sub-waala check" entry:"1400654688" project:"work" status:"pending" uuid:"79c735b7-3357-4d71-b6ab-6f5d63eada19"]
+---
+time 1400665383
+old [description:"fix sub-waala check" entry:"1400654688" project:"work" status:"pending" uuid:"79c735b7-3357-4d71-b6ab-6f5d63eada19"]
+new [description:"fix sub-waala check" entry:"1400654688" modified:"1400665383" project:"work" start:"1400665383" status:"pending" uuid:"79c735b7-3357-4d71-b6ab-6f5d63eada19"]
+---
+time 1400665402
+old [annotation_1400593012:"commit 22930" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400593026" project:"work" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+new [annotation_1400593012:"commit 22930" description:"amazon test" end:"1400592863" entry:"1400592863" modified:"1400665402" project:"work" start:"1400665402" status:"completed" uuid:"4fb3c78a-63ec-4872-8b1f-1929d5c2ee23"]
+---
+time 1400739868
+new [description:"Setup" due:"1400796000" entry:"1400739868" imask:"24" modified:"1400654669" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"89756ae3-c654-4b0d-b5a9-2b97dc9b7f1a"]
+---
+time 1400739868
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++-" modified:"1400654669" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++--" modified:"1400739868" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400739879
+old [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" entry:"1399624286" modified:"1399882459" project:"work" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+new [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" entry:"1399624286" modified:"1400739879" project:"work" start:"1400739879" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1400743304
+new [description:"blackflag extraction" entry:"1400743304" project:"work" status:"pending" uuid:"0803c9c7-02fc-4d57-91c7-4fdb6a3ecd2c"]
+---
+time 1400743307
+old [description:"blackflag extraction" entry:"1400743304" project:"work" status:"pending" uuid:"0803c9c7-02fc-4d57-91c7-4fdb6a3ecd2c"]
+new [description:"blackflag extraction" entry:"1400743304" modified:"1400743307" project:"work" start:"1400743307" status:"pending" uuid:"0803c9c7-02fc-4d57-91c7-4fdb6a3ecd2c"]
+---
+time 1400751320
+new [description:"move virtual machines to hard disk" entry:"1400751320" project:"work" status:"pending" uuid:"a38abd71-1eff-40b7-bb55-0ed8181146fb"]
+---
+time 1400763688
+old [description:"blackflag extraction" entry:"1400743304" modified:"1400743307" project:"work" start:"1400743307" status:"pending" uuid:"0803c9c7-02fc-4d57-91c7-4fdb6a3ecd2c"]
+new [description:"blackflag extraction" end:"1400763688" entry:"1400743304" modified:"1400763688" project:"work" start:"1400743307" status:"completed" uuid:"0803c9c7-02fc-4d57-91c7-4fdb6a3ecd2c"]
+---
+time 1400763702
+new [description:"blackflag test new recover" entry:"1400763702" project:"work" status:"pending" uuid:"6c03adc8-83d0-4673-a59e-e7de5282056e"]
+---
