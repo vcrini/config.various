@@ -1624,3 +1624,1465 @@ new [description:"blackflag extraction" end:"1400763688" entry:"1400743304" modi
 time 1400763702
 new [description:"blackflag test new recover" entry:"1400763702" project:"work" status:"pending" uuid:"6c03adc8-83d0-4673-a59e-e7de5282056e"]
 ---
+time 1400826590
+new [description:"inglese" due:"1400968800" entry:"1400826590" imask:"13" modified:"1400654532" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"4dc96346-8862-48d0-88af-e023016dc507"]
+---
+time 1400826590
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+--" modified:"1400654532" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+---" modified:"1400826590" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400826590
+new [description:"Setup" due:"1400882400" entry:"1400826590" imask:"25" modified:"1400739868" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"c905dc54-cbc5-48b5-8cf0-4063da02a070"]
+---
+time 1400826590
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++--" modified:"1400739868" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++---" modified:"1400826590" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400826805
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+---" modified:"1400826590" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+X--" modified:"1400826805" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400826805
+old [description:"inglese" due:"1400623200" entry:"1400480252" imask:"11" modified:"1400139200" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"34f3fddc-fc20-48ae-95f5-9d4427dc55a6"]
+new [description:"inglese" due:"1400623200" end:"1400826801" entry:"1400480252" imask:"11" modified:"1400826805" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"34f3fddc-fc20-48ae-95f5-9d4427dc55a6"]
+---
+time 1400826811
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++---" modified:"1400826590" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X--" modified:"1400826811" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400826811
+old [description:"Setup" due:"1400709600" entry:"1400654532" imask:"23" modified:"1400597188" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5cb3aff8-c5b9-48ce-ac50-48f3b00d43bb"]
+new [description:"Setup" due:"1400709600" end:"1400826811" entry:"1400654532" imask:"23" modified:"1400826811" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"5cb3aff8-c5b9-48ce-ac50-48f3b00d43bb"]
+---
+time 1400826813
+old [description:"move virtual machines to hard disk" entry:"1400751320" project:"work" status:"pending" uuid:"a38abd71-1eff-40b7-bb55-0ed8181146fb"]
+new [description:"move virtual machines to hard disk" end:"1400826813" entry:"1400751320" modified:"1400826813" project:"work" status:"deleted" uuid:"a38abd71-1eff-40b7-bb55-0ed8181146fb"]
+---
+time 1400826879
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+X--" modified:"1400826805" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+X-X" modified:"1400826879" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400826879
+old [description:"inglese" due:"1400968800" entry:"1400826590" imask:"13" modified:"1400654532" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"4dc96346-8862-48d0-88af-e023016dc507"]
+new [description:"inglese" due:"1400968800" end:"1400826836" entry:"1400826590" imask:"13" modified:"1400826879" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"4dc96346-8862-48d0-88af-e023016dc507"]
+---
+time 1400826882
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+X-X" modified:"1400826879" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX" modified:"1400826882" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1400826990
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X--" modified:"1400826811" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X-X" modified:"1400826990" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400826990
+old [description:"Setup" due:"1400882400" entry:"1400826590" imask:"25" modified:"1400739868" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"c905dc54-cbc5-48b5-8cf0-4063da02a070"]
+new [description:"Setup" due:"1400882400" end:"1400826987" entry:"1400826590" imask:"25" modified:"1400826990" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"c905dc54-cbc5-48b5-8cf0-4063da02a070"]
+---
+time 1400827000
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X-X" modified:"1400826990" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X-X" modified:"1400827000" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1400827000
+old [description:"Setup" due:"1400796000" entry:"1400739868" imask:"24" modified:"1400654669" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"89756ae3-c654-4b0d-b5a9-2b97dc9b7f1a"]
+new [description:"Setup" due:"1400796000" entry:"1400739868" imask:"24" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400827000" status:"pending" uuid:"89756ae3-c654-4b0d-b5a9-2b97dc9b7f1a"]
+---
+time 1401089287
+new [description:"Setup" due:"1400968800" entry:"1401089287" imask:"26" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"bd698c25-5e92-4ef4-b819-ed2121b5986e"]
+---
+time 1401089287
+new [description:"Setup" due:"1401055200" entry:"1401089287" imask:"27" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"32083c9c-2885-4281-8711-06c7e5f6c594"]
+---
+time 1401089287
+new [description:"Setup" due:"1401141600" entry:"1401089287" imask:"28" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"9225a265-039a-4052-a493-7e6ec76510ec"]
+---
+time 1401089287
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X-X" modified:"1400827000" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X-X---" modified:"1401089287" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401089287
+new [description:"inglese" due:"1401141600" entry:"1401089287" imask:"14" modified:"1400826882" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"06d70705-9488-4fef-84e2-d35fba636e1e"]
+---
+time 1401089287
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX" modified:"1400826882" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX-" modified:"1401089287" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401089306
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++X-X---" modified:"1401089287" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXX---" modified:"1401089306" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401089306
+old [description:"Setup" due:"1400796000" entry:"1400739868" imask:"24" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400827000" status:"pending" uuid:"89756ae3-c654-4b0d-b5a9-2b97dc9b7f1a"]
+new [description:"Setup" due:"1400796000" end:"1401089304" entry:"1400739868" imask:"24" modified:"1401089306" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1400827000" status:"deleted" uuid:"89756ae3-c654-4b0d-b5a9-2b97dc9b7f1a"]
+---
+time 1401089307
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX-" modified:"1401089287" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX-" modified:"1401089307" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401089307
+old [description:"inglese" due:"1400796000" entry:"1400654532" imask:"12" modified:"1400592835" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"10703408-7478-4611-a95d-b6a983622550"]
+new [description:"inglese" due:"1400796000" end:"1401089307" entry:"1400654532" imask:"12" modified:"1401089307" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"10703408-7478-4611-a95d-b6a983622550"]
+---
+time 1401089308
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXX---" modified:"1401089306" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX--" modified:"1401089308" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401089308
+old [description:"Setup" due:"1400968800" entry:"1401089287" imask:"26" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"bd698c25-5e92-4ef4-b819-ed2121b5986e"]
+new [description:"Setup" due:"1400968800" end:"1401089308" entry:"1401089287" imask:"26" modified:"1401089308" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"bd698c25-5e92-4ef4-b819-ed2121b5986e"]
+---
+time 1401089318
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX--" modified:"1401089308" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX--" modified:"1401089318" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401089318
+old [description:"Setup" due:"1401055200" entry:"1401089287" imask:"27" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"32083c9c-2885-4281-8711-06c7e5f6c594"]
+new [description:"Setup" due:"1401055200" entry:"1401089287" imask:"27" modified:"1401089318" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401089318" status:"pending" uuid:"32083c9c-2885-4281-8711-06c7e5f6c594"]
+---
+time 1401119558
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX--" modified:"1401089318" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX+-" modified:"1401119558" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401119558
+old [description:"Setup" due:"1401055200" entry:"1401089287" imask:"27" modified:"1401089318" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401089318" status:"pending" uuid:"32083c9c-2885-4281-8711-06c7e5f6c594"]
+new [description:"Setup" due:"1401055200" end:"1401119558" entry:"1401089287" imask:"27" modified:"1401119558" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401089318" status:"completed" uuid:"32083c9c-2885-4281-8711-06c7e5f6c594"]
+---
+time 1401175948
+new [description:"Setup" due:"1401228000" entry:"1401175948" imask:"29" modified:"1401119558" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+---
+time 1401175948
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX+-" modified:"1401119558" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX+--" modified:"1401175948" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401175948
+new [description:"inglese" due:"1401314400" entry:"1401175948" imask:"15" modified:"1401089307" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"f83e044a-ecfc-4a4a-af13-bc89aa8a0192"]
+---
+time 1401175948
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX-" modified:"1401089307" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX--" modified:"1401175948" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401175952
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX+--" modified:"1401175948" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX+--" modified:"1401175952" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401175952
+old [description:"Setup" due:"1401141600" entry:"1401089287" imask:"28" modified:"1400827000" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"9225a265-039a-4052-a493-7e6ec76510ec"]
+new [description:"Setup" due:"1401141600" entry:"1401089287" imask:"28" modified:"1401175952" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401175952" status:"pending" uuid:"9225a265-039a-4052-a493-7e6ec76510ec"]
+---
+time 1401176017
+old [description:"fix sub-waala check" entry:"1400654688" modified:"1400665383" project:"work" start:"1400665383" status:"pending" uuid:"79c735b7-3357-4d71-b6ab-6f5d63eada19"]
+new [description:"fix sub-waala check" end:"1401176017" entry:"1400654688" modified:"1401176017" project:"work" start:"1400665383" status:"completed" uuid:"79c735b7-3357-4d71-b6ab-6f5d63eada19"]
+---
+time 1401177577
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX+--" modified:"1401175952" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++-" modified:"1401177577" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401177577
+old [description:"Setup" due:"1401141600" entry:"1401089287" imask:"28" modified:"1401175952" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401175952" status:"pending" uuid:"9225a265-039a-4052-a493-7e6ec76510ec"]
+new [description:"Setup" due:"1401141600" end:"1401177577" entry:"1401089287" imask:"28" modified:"1401177577" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401175952" status:"completed" uuid:"9225a265-039a-4052-a493-7e6ec76510ec"]
+---
+time 1401179452
+old [description:"blackflag test new recover" entry:"1400763702" project:"work" status:"pending" uuid:"6c03adc8-83d0-4673-a59e-e7de5282056e"]
+new [description:"blackflag test new recover" entry:"1400763702" modified:"1401179452" project:"work" start:"1401179452" status:"pending" uuid:"6c03adc8-83d0-4673-a59e-e7de5282056e"]
+---
+time 1401194220
+old [description:"blackflag test new recover" entry:"1400763702" modified:"1401179452" project:"work" start:"1401179452" status:"pending" uuid:"6c03adc8-83d0-4673-a59e-e7de5282056e"]
+new [description:"blackflag test new recover" end:"1401194220" entry:"1400763702" modified:"1401194220" project:"work" start:"1401179452" status:"completed" uuid:"6c03adc8-83d0-4673-a59e-e7de5282056e"]
+---
+time 1401194225
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX--" modified:"1401175948" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX+-" modified:"1401194225" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401194225
+old [description:"inglese" due:"1401141600" entry:"1401089287" imask:"14" modified:"1400826882" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"06d70705-9488-4fef-84e2-d35fba636e1e"]
+new [description:"inglese" due:"1401141600" end:"1401194225" entry:"1401089287" imask:"14" modified:"1401194225" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"06d70705-9488-4fef-84e2-d35fba636e1e"]
+---
+time 1401204050
+new [description:"1 done" entry:"1401204050" status:"pending" uuid:"696087b7-44b6-4c45-84b9-109278a86af8"]
+---
+time 1401204059
+new [description:"remove unusued check nagios" entry:"1401204059" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+---
+time 1401204072
+old [description:"remove unusued check nagios" entry:"1401204059" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+new [description:"remove unusued check nagios" entry:"1401204059" modified:"1401204072" project:"support" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+---
+time 1401204093
+old [description:"remove unusued check nagios" entry:"1401204059" modified:"1401204072" project:"support" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+new [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" entry:"1401204059" modified:"1401204093" project:"support" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+---
+time 1401204101
+old [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" entry:"1401204059" modified:"1401204093" project:"support" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+new [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" entry:"1401204059" modified:"1401204101" project:"support" start:"1401204101" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+---
+time 1401204105
+old [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" entry:"1399624286" modified:"1400739879" project:"work" start:"1400739879" status:"pending" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+new [annotation_1399624351:"qa ticket 663859" annotation_1399624397:"qa commit 22907" description:"templates email" end:"1401204105" entry:"1399624286" modified:"1401204105" project:"work" start:"1400739879" status:"completed" uuid:"538595c3-7de0-469e-88cf-d665cef8def4"]
+---
+time 1401204122
+old [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" entry:"1401204059" modified:"1401204101" project:"support" start:"1401204101" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+new [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" entry:"1401204059" modified:"1401204122" project:"support" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+---
+time 1401204154
+old [description:"1 done" entry:"1401204050" status:"pending" uuid:"696087b7-44b6-4c45-84b9-109278a86af8"]
+new [description:"1 done" end:"1401204152" entry:"1401204050" modified:"1401204154" status:"deleted" uuid:"696087b7-44b6-4c45-84b9-109278a86af8"]
+---
+time 1401260078
+new [description:"Setup" due:"1401314400" entry:"1401260078" imask:"30" modified:"1401177577" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4abcd5ec-d90f-4846-b8a3-7e8503d32ef1"]
+---
+time 1401260078
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++-" modified:"1401177577" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++--" modified:"1401260078" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401260083
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++--" modified:"1401260078" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++--" modified:"1401260083" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401260083
+old [description:"Setup" due:"1401228000" entry:"1401175948" imask:"29" modified:"1401119558" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+new [description:"Setup" due:"1401228000" entry:"1401175948" imask:"29" modified:"1401260083" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401260083" status:"pending" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+---
+time 1401261917
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++--" modified:"1401260083" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++--" modified:"1401261917" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401261917
+old [description:"Setup" due:"1401228000" entry:"1401175948" imask:"29" modified:"1401260083" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401260083" status:"pending" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+new [description:"Setup" due:"1401228000" entry:"1401175948" imask:"29" modified:"1401261917" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+---
+time 1401261953
+old [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" entry:"1401204059" modified:"1401204122" project:"support" status:"pending" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+new [annotation_1401204093:"ticket 666696" description:"remove unusued check nagios" end:"1401261953" entry:"1401204059" modified:"1401261953" project:"support" status:"completed" uuid:"44495cb8-f0b4-45b9-b42e-043d0b1b91cb"]
+---
+time 1401284141
+new [description:"change vivo service code" entry:"1401284141" project:"wor" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401284144
+old [description:"change vivo service code" entry:"1401284141" project:"wor" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [description:"change vivo service code" entry:"1401284141" modified:"1401284144" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401284459
+old [description:"change vivo service code" entry:"1401284141" modified:"1401284144" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284459:"qa" description:"change vivo service code" entry:"1401284141" modified:"1401284459" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401284471
+old [annotation_1401284459:"qa" description:"change vivo service code" entry:"1401284141" modified:"1401284459" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284459:"qa" annotation_1401284471:"qa 666845" description:"change vivo service code" entry:"1401284141" modified:"1401284471" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401284476
+old [annotation_1401284459:"qa" annotation_1401284471:"qa 666845" description:"change vivo service code" entry:"1401284141" modified:"1401284471" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284459:"qa" annotation_1401284471:"qa 666845" annotation_1401284476:"666845" description:"change vivo service code" entry:"1401284141" modified:"1401284476" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401284500
+old [annotation_1401284459:"qa" annotation_1401284471:"qa 666845" annotation_1401284476:"666845" description:"change vivo service code" entry:"1401284141" modified:"1401284476" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284472:"qa 666854" annotation_1401284476:"666845" description:"change vivo service code" entry:"1401284141" modified:"1401284500" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401284534
+old [annotation_1401284472:"qa 666854" annotation_1401284476:"666845" description:"change vivo service code" entry:"1401284141" modified:"1401284500" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284472:"666845" annotation_1401284477:"qa 666854" description:"change vivo service code" entry:"1401284141" modified:"1401284534" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401345669
+new [description:"Setup" due:"1401400800" entry:"1401345669" imask:"31" modified:"1401261917" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"82d5c26e-ad98-4d0e-968b-0e08c332e901"]
+---
+time 1401345669
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++--" modified:"1401261917" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++---" modified:"1401345669" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401345669
+new [description:"inglese" due:"1401487200" entry:"1401345669" imask:"16" modified:"1401194225" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"f835682c-baef-4f5f-8ffd-91fa0ebd96f4"]
+---
+time 1401345669
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX+-" modified:"1401194225" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX+--" modified:"1401345669" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401345690
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++---" modified:"1401345669" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X--" modified:"1401345690" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401345690
+old [description:"Setup" due:"1401228000" entry:"1401175948" imask:"29" modified:"1401261917" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+new [description:"Setup" due:"1401228000" end:"1401345689" entry:"1401175948" imask:"29" modified:"1401345690" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"ede73b87-a78a-4abd-97e7-b7a8fc987f03"]
+---
+time 1401345704
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X--" modified:"1401345690" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X--" modified:"1401345704" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401345704
+old [description:"Setup" due:"1401314400" entry:"1401260078" imask:"30" modified:"1401177577" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4abcd5ec-d90f-4846-b8a3-7e8503d32ef1"]
+new [description:"Setup" due:"1401314400" entry:"1401260078" imask:"30" modified:"1401345704" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401345704" status:"pending" uuid:"4abcd5ec-d90f-4846-b8a3-7e8503d32ef1"]
+---
+time 1401351426
+new [description:"php course" entry:"1401351426" project:"learning" status:"pending" uuid:"c436ad46-c2bc-41c6-b849-d3f9731e164a"]
+---
+time 1401357094
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X--" modified:"1401345704" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X+-" modified:"1401357094" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401357094
+old [description:"Setup" due:"1401314400" entry:"1401260078" imask:"30" modified:"1401345704" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401345704" status:"pending" uuid:"4abcd5ec-d90f-4846-b8a3-7e8503d32ef1"]
+new [description:"Setup" due:"1401314400" end:"1401357094" entry:"1401260078" imask:"30" modified:"1401357094" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401345704" status:"completed" uuid:"4abcd5ec-d90f-4846-b8a3-7e8503d32ef1"]
+---
+time 1401357098
+old [description:"php course" entry:"1401351426" project:"learning" status:"pending" uuid:"c436ad46-c2bc-41c6-b849-d3f9731e164a"]
+new [description:"php course" entry:"1401351426" modified:"1401357098" project:"learning" start:"1401357098" status:"pending" uuid:"c436ad46-c2bc-41c6-b849-d3f9731e164a"]
+---
+time 1401361043
+new [description:"estrazione playplanet" entry:"1401361043" project:"work" status:"pending" uuid:"8199e33a-e690-4283-ab20-1df36ab5e658"]
+---
+time 1401361059
+new [description:"update tariff" entry:"1401361059" project:"wor" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+---
+time 1401361071
+old [annotation_1401284472:"666845" annotation_1401284477:"qa 666854" description:"change vivo service code" entry:"1401284141" modified:"1401284534" project:"wor" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284472:"666845" annotation_1401284477:"qa 666854" description:"change vivo service code" entry:"1401284141" modified:"1401361071" project:"work" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401361083
+old [description:"update tariff" entry:"1401361059" project:"wor" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+new [description:"update tariff" entry:"1401361059" modified:"1401361083" project:"work" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+---
+time 1401361093
+old [description:"update tariff" entry:"1401361059" modified:"1401361083" project:"work" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+new [description:"update tariff" entry:"1401361059" modified:"1401361093" project:"work" start:"1401361093" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+---
+time 1401361096
+old [description:"update tariff" entry:"1401361059" modified:"1401361093" project:"work" start:"1401361093" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+new [description:"update tariff" entry:"1401361059" modified:"1401361096" project:"work" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+---
+time 1401368283
+old [description:"update tariff" entry:"1401361059" modified:"1401361096" project:"work" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+new [description:"update tariff" entry:"1401361059" modified:"1401368283" project:"work" start:"1401368283" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+---
+time 1401368978
+old [description:"estrazione playplanet" entry:"1401361043" project:"work" status:"pending" uuid:"8199e33a-e690-4283-ab20-1df36ab5e658"]
+new [description:"estrazione playplanet" entry:"1401361043" modified:"1401368978" project:"work" start:"1401368978" status:"pending" uuid:"8199e33a-e690-4283-ab20-1df36ab5e658"]
+---
+time 1401368989
+old [annotation_1401284472:"666845" annotation_1401284477:"qa 666854" description:"change vivo service code" entry:"1401284141" modified:"1401361071" project:"work" start:"1401284144" status:"pending" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+new [annotation_1401284472:"666845" annotation_1401284477:"qa 666854" description:"change vivo service code" end:"1401368989" entry:"1401284141" modified:"1401368989" project:"work" start:"1401284144" status:"completed" uuid:"4a9d0bea-2acd-4336-9dd5-9d7fad9794b3"]
+---
+time 1401372385
+old [description:"update tariff" entry:"1401361059" modified:"1401368283" project:"work" start:"1401368283" status:"pending" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+new [description:"update tariff" end:"1401372385" entry:"1401361059" modified:"1401372385" project:"work" start:"1401368283" status:"completed" uuid:"f8f50c60-9d97-48bf-ac1a-fa056077ea7e"]
+---
+time 1401374361
+old [description:"estrazione playplanet" entry:"1401361043" modified:"1401368978" project:"work" start:"1401368978" status:"pending" uuid:"8199e33a-e690-4283-ab20-1df36ab5e658"]
+new [description:"estrazione playplanet" end:"1401374361" entry:"1401361043" modified:"1401374361" project:"work" start:"1401368978" status:"completed" uuid:"8199e33a-e690-4283-ab20-1df36ab5e658"]
+---
+time 1401378037
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX+--" modified:"1401345669" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++-" modified:"1401378037" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401378037
+old [description:"inglese" due:"1401314400" entry:"1401175948" imask:"15" modified:"1401089307" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"f83e044a-ecfc-4a4a-af13-bc89aa8a0192"]
+new [description:"inglese" due:"1401314400" end:"1401378037" entry:"1401175948" imask:"15" modified:"1401378037" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"f83e044a-ecfc-4a4a-af13-bc89aa8a0192"]
+---
+time 1401442509
+new [description:"Setup" due:"1401487200" entry:"1401442509" imask:"32" modified:"1401357094" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6ec4a709-e349-4875-bd0c-3906ec6d2cee"]
+---
+time 1401442509
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X+-" modified:"1401357094" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X+--" modified:"1401442509" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401442538
+new [description:"spring race condition" entry:"1401442538" project:"work" status:"pending" uuid:"21b1d1e0-35a9-46ce-9438-799cc5c63977"]
+---
+time 1401442542
+old [description:"spring race condition" entry:"1401442538" project:"work" status:"pending" uuid:"21b1d1e0-35a9-46ce-9438-799cc5c63977"]
+new [description:"spring race condition" entry:"1401442538" modified:"1401442542" project:"work" start:"1401442542" status:"pending" uuid:"21b1d1e0-35a9-46ce-9438-799cc5c63977"]
+---
+time 1401442552
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X+--" modified:"1401442509" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X+--" modified:"1401442552" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401442552
+old [description:"Setup" due:"1401400800" entry:"1401345669" imask:"31" modified:"1401261917" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"82d5c26e-ad98-4d0e-968b-0e08c332e901"]
+new [description:"Setup" due:"1401400800" entry:"1401345669" imask:"31" modified:"1401442552" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401442552" status:"pending" uuid:"82d5c26e-ad98-4d0e-968b-0e08c332e901"]
+---
+time 1401452689
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X+--" modified:"1401442552" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++-" modified:"1401452689" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401452689
+old [description:"Setup" due:"1401400800" entry:"1401345669" imask:"31" modified:"1401442552" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401442552" status:"pending" uuid:"82d5c26e-ad98-4d0e-968b-0e08c332e901"]
+new [description:"Setup" due:"1401400800" end:"1401452689" entry:"1401345669" imask:"31" modified:"1401452689" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401442552" status:"completed" uuid:"82d5c26e-ad98-4d0e-968b-0e08c332e901"]
+---
+time 1401452693
+old [description:"spring race condition" entry:"1401442538" modified:"1401442542" project:"work" start:"1401442542" status:"pending" uuid:"21b1d1e0-35a9-46ce-9438-799cc5c63977"]
+new [description:"spring race condition" end:"1401452693" entry:"1401442538" modified:"1401452693" project:"work" start:"1401442542" status:"completed" uuid:"21b1d1e0-35a9-46ce-9438-799cc5c63977"]
+---
+time 1401452725
+new [description:"bigbrother custom messages" entry:"1401452725" project:"work" status:"pending" uuid:"cd1f4f33-f2ec-4459-9ef6-73d3d67cf746"]
+---
+time 1401452732
+old [description:"bigbrother custom messages" entry:"1401452725" project:"work" status:"pending" uuid:"cd1f4f33-f2ec-4459-9ef6-73d3d67cf746"]
+new [description:"bigbrother custom messages" entry:"1401452725" modified:"1401452732" project:"work" start:"1401452732" status:"pending" uuid:"cd1f4f33-f2ec-4459-9ef6-73d3d67cf746"]
+---
+time 1401452756
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++-" modified:"1401378037" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++X" modified:"1401452756" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401452756
+old [description:"inglese" due:"1401487200" entry:"1401345669" imask:"16" modified:"1401194225" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"f835682c-baef-4f5f-8ffd-91fa0ebd96f4"]
+new [description:"inglese" due:"1401487200" end:"1401452752" entry:"1401345669" imask:"16" modified:"1401452756" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"f835682c-baef-4f5f-8ffd-91fa0ebd96f4"]
+---
+time 1401452775
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++-" modified:"1401452689" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++X" modified:"1401452775" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401452775
+old [description:"Setup" due:"1401487200" entry:"1401442509" imask:"32" modified:"1401357094" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6ec4a709-e349-4875-bd0c-3906ec6d2cee"]
+new [description:"Setup" due:"1401487200" end:"1401452772" entry:"1401442509" imask:"32" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"6ec4a709-e349-4875-bd0c-3906ec6d2cee"]
+---
+time 1401775431
+new [description:"Setup" due:"1401573600" entry:"1401775431" imask:"33" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d60542fa-1605-4584-a826-2c294a88634a"]
+---
+time 1401775431
+new [description:"Setup" due:"1401660000" entry:"1401775431" imask:"34" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"0f2e259f-3706-4296-9a44-236f89abff08"]
+---
+time 1401775431
+new [description:"Setup" due:"1401746400" entry:"1401775431" imask:"35" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d59fe20f-84ed-4229-9cf2-d8b6c0a28634"]
+---
+time 1401775431
+new [description:"Setup" due:"1401832800" entry:"1401775431" imask:"36" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5e7abedf-5622-4d3c-b895-54ade43f99c0"]
+---
+time 1401775431
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++X" modified:"1401452775" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++X----" modified:"1401775431" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401775431
+new [description:"inglese" due:"1401660000" entry:"1401775431" imask:"17" modified:"1401452756" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"fda63bc5-588b-49dd-8bb5-5a67bc4d3ba5"]
+---
+time 1401775431
+new [description:"inglese" due:"1401832800" entry:"1401775431" imask:"18" modified:"1401452756" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"d7eaf253-d913-49a3-9bdc-a581c6e5c6c4"]
+---
+time 1401775431
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++X" modified:"1401452756" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++X--" modified:"1401775431" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401775458
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++X----" modified:"1401775431" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XX---" modified:"1401775458" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401775458
+old [description:"Setup" due:"1401573600" entry:"1401775431" imask:"33" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d60542fa-1605-4584-a826-2c294a88634a"]
+new [description:"Setup" due:"1401573600" end:"1401775455" entry:"1401775431" imask:"33" modified:"1401775458" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"d60542fa-1605-4584-a826-2c294a88634a"]
+---
+time 1401775460
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XX---" modified:"1401775458" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX--" modified:"1401775460" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401775460
+old [description:"Setup" due:"1401660000" entry:"1401775431" imask:"34" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"0f2e259f-3706-4296-9a44-236f89abff08"]
+new [description:"Setup" due:"1401660000" end:"1401775460" entry:"1401775431" imask:"34" modified:"1401775460" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"0f2e259f-3706-4296-9a44-236f89abff08"]
+---
+time 1401775461
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++X--" modified:"1401775431" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX-" modified:"1401775461" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401775461
+old [description:"inglese" due:"1401660000" entry:"1401775431" imask:"17" modified:"1401452756" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"fda63bc5-588b-49dd-8bb5-5a67bc4d3ba5"]
+new [description:"inglese" due:"1401660000" end:"1401775461" entry:"1401775431" imask:"17" modified:"1401775461" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"fda63bc5-588b-49dd-8bb5-5a67bc4d3ba5"]
+---
+time 1401775468
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX--" modified:"1401775460" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX--" modified:"1401775468" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401775468
+old [description:"Setup" due:"1401746400" entry:"1401775431" imask:"35" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d59fe20f-84ed-4229-9cf2-d8b6c0a28634"]
+new [description:"Setup" due:"1401746400" entry:"1401775431" imask:"35" modified:"1401775468" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401775468" status:"pending" uuid:"d59fe20f-84ed-4229-9cf2-d8b6c0a28634"]
+---
+time 1401777358
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX--" modified:"1401775468" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+-" modified:"1401777358" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401777358
+old [description:"Setup" due:"1401746400" entry:"1401775431" imask:"35" modified:"1401775468" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401775468" status:"pending" uuid:"d59fe20f-84ed-4229-9cf2-d8b6c0a28634"]
+new [description:"Setup" due:"1401746400" end:"1401777358" entry:"1401775431" imask:"35" modified:"1401777358" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401775468" status:"completed" uuid:"d59fe20f-84ed-4229-9cf2-d8b6c0a28634"]
+---
+time 1401863992
+new [description:"Setup" due:"1401919200" entry:"1401863992" imask:"37" modified:"1401777358" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f7d87c7f-2d74-4e39-a9cb-75faa949517b"]
+---
+time 1401863992
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+-" modified:"1401777358" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+--" modified:"1401863992" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401863992
+new [description:"inglese" due:"1402005600" entry:"1401863992" imask:"19" modified:"1401775461" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"410c8705-d9ab-4646-9e65-476532c62e9b"]
+---
+time 1401863992
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX-" modified:"1401775461" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX--" modified:"1401863992" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401865695
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+--" modified:"1401863992" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+--" modified:"1401865695" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401865695
+old [description:"Setup" due:"1401832800" entry:"1401775431" imask:"36" modified:"1401452775" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5e7abedf-5622-4d3c-b895-54ade43f99c0"]
+new [description:"Setup" due:"1401832800" entry:"1401775431" imask:"36" modified:"1401865695" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401865695" status:"pending" uuid:"5e7abedf-5622-4d3c-b895-54ade43f99c0"]
+---
+time 1401885275
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+--" modified:"1401865695" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++-" modified:"1401885275" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401885275
+old [description:"Setup" due:"1401832800" entry:"1401775431" imask:"36" modified:"1401865695" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401865695" status:"pending" uuid:"5e7abedf-5622-4d3c-b895-54ade43f99c0"]
+new [description:"Setup" due:"1401832800" end:"1401885275" entry:"1401775431" imask:"36" modified:"1401885275" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401865695" status:"completed" uuid:"5e7abedf-5622-4d3c-b895-54ade43f99c0"]
+---
+time 1401952504
+new [description:"Setup" due:"1402005600" entry:"1401952504" imask:"38" modified:"1401885275" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"dbda73c4-beff-472b-a465-60ad91484953"]
+---
+time 1401952504
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++-" modified:"1401885275" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++--" modified:"1401952504" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401952532
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++--" modified:"1401952504" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++--" modified:"1401952532" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401952532
+old [description:"Setup" due:"1401919200" entry:"1401863992" imask:"37" modified:"1401777358" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f7d87c7f-2d74-4e39-a9cb-75faa949517b"]
+new [description:"Setup" due:"1401919200" entry:"1401863992" imask:"37" modified:"1401952532" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401952532" status:"pending" uuid:"f7d87c7f-2d74-4e39-a9cb-75faa949517b"]
+---
+time 1401964921
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++--" modified:"1401952532" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+++-" modified:"1401964921" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1401964921
+old [description:"Setup" due:"1401919200" entry:"1401863992" imask:"37" modified:"1401952532" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401952532" status:"pending" uuid:"f7d87c7f-2d74-4e39-a9cb-75faa949517b"]
+new [description:"Setup" due:"1401919200" end:"1401964921" entry:"1401863992" imask:"37" modified:"1401964921" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1401952532" status:"completed" uuid:"f7d87c7f-2d74-4e39-a9cb-75faa949517b"]
+---
+time 1401973070
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX--" modified:"1401863992" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX+-" modified:"1401973070" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1401973070
+old [description:"inglese" due:"1401832800" entry:"1401775431" imask:"18" modified:"1401452756" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"d7eaf253-d913-49a3-9bdc-a581c6e5c6c4"]
+new [description:"inglese" due:"1401832800" end:"1401973070" entry:"1401775431" imask:"18" modified:"1401973070" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"d7eaf253-d913-49a3-9bdc-a581c6e5c6c4"]
+---
+time 1401973077
+old [description:"php course" entry:"1401351426" modified:"1401357098" project:"learning" start:"1401357098" status:"pending" uuid:"c436ad46-c2bc-41c6-b849-d3f9731e164a"]
+new [description:"php course" end:"1401973077" entry:"1401351426" modified:"1401973077" project:"learning" start:"1401357098" status:"completed" uuid:"c436ad46-c2bc-41c6-b849-d3f9731e164a"]
+---
+time 1401973102
+new [description:"read wiki php framework" entry:"1401973102" project:"work" status:"pending" uuid:"75dfb698-72e6-44ba-bffd-e5630846ca83"]
+---
+time 1401973223
+old [description:"read wiki php framework" entry:"1401973102" project:"work" status:"pending" uuid:"75dfb698-72e6-44ba-bffd-e5630846ca83"]
+new [description:"read wiki php framework" entry:"1401973102" modified:"1401973223" project:"work" start:"1401973223" status:"pending" uuid:"75dfb698-72e6-44ba-bffd-e5630846ca83"]
+---
+time 1401973366
+old [description:"read wiki php framework" entry:"1401973102" modified:"1401973223" project:"work" start:"1401973223" status:"pending" uuid:"75dfb698-72e6-44ba-bffd-e5630846ca83"]
+new [description:"read wiki php framework" end:"1401973366" entry:"1401973102" modified:"1401973366" project:"work" start:"1401973223" status:"completed" uuid:"75dfb698-72e6-44ba-bffd-e5630846ca83"]
+---
+time 1402038023
+new [description:"Setup" due:"1402092000" entry:"1402038023" imask:"39" modified:"1401964921" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"636b931c-6f6d-4a36-96e2-2e19a7c5e214"]
+---
+time 1402038023
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+++-" modified:"1401964921" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+++--" modified:"1402038023" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402038023
+new [description:"inglese" due:"1402178400" entry:"1402038023" imask:"20" modified:"1401973070" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"dd486468-d29e-4ccb-902e-078caccd6a3a"]
+---
+time 1402038023
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX+-" modified:"1401973070" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX+--" modified:"1402038023" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402039690
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+++--" modified:"1402038023" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+++--" modified:"1402039690" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402039690
+old [description:"Setup" due:"1402005600" entry:"1401952504" imask:"38" modified:"1401885275" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"dbda73c4-beff-472b-a465-60ad91484953"]
+new [description:"Setup" due:"1402005600" entry:"1401952504" imask:"38" modified:"1402039690" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402039690" status:"pending" uuid:"dbda73c4-beff-472b-a465-60ad91484953"]
+---
+time 1402040586
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX+++--" modified:"1402039690" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++-" modified:"1402040586" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402040586
+old [description:"Setup" due:"1402005600" entry:"1401952504" imask:"38" modified:"1402039690" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402039690" status:"pending" uuid:"dbda73c4-beff-472b-a465-60ad91484953"]
+new [description:"Setup" due:"1402005600" end:"1402040586" entry:"1401952504" imask:"38" modified:"1402040586" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402039690" status:"completed" uuid:"dbda73c4-beff-472b-a465-60ad91484953"]
+---
+time 1402061209
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX+--" modified:"1402038023" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++-" modified:"1402061209" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402061209
+old [description:"inglese" due:"1402005600" entry:"1401863992" imask:"19" modified:"1401775461" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"410c8705-d9ab-4646-9e65-476532c62e9b"]
+new [description:"inglese" due:"1402005600" end:"1402061209" entry:"1401863992" imask:"19" modified:"1402061209" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"410c8705-d9ab-4646-9e65-476532c62e9b"]
+---
+time 1402061233
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++-" modified:"1402040586" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X" modified:"1402061233" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402061233
+old [description:"Setup" due:"1402092000" entry:"1402038023" imask:"39" modified:"1401964921" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"636b931c-6f6d-4a36-96e2-2e19a7c5e214"]
+new [description:"Setup" due:"1402092000" end:"1402061227" entry:"1402038023" imask:"39" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"636b931c-6f6d-4a36-96e2-2e19a7c5e214"]
+---
+time 1402061233
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++-" modified:"1402061209" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X" modified:"1402061233" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402061233
+old [description:"inglese" due:"1402178400" entry:"1402038023" imask:"20" modified:"1401973070" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"dd486468-d29e-4ccb-902e-078caccd6a3a"]
+new [description:"inglese" due:"1402178400" end:"1402061233" entry:"1402038023" imask:"20" modified:"1402061233" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"dd486468-d29e-4ccb-902e-078caccd6a3a"]
+---
+time 1402294061
+new [description:"Setup" due:"1402178400" entry:"1402294061" imask:"40" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"0ad68eac-920d-4162-9d3e-dfcfb0ca339b"]
+---
+time 1402294061
+new [description:"Setup" due:"1402264800" entry:"1402294061" imask:"41" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d363c68b-c102-4805-8b3e-fbafea28b77b"]
+---
+time 1402294061
+new [description:"Setup" due:"1402351200" entry:"1402294061" imask:"42" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"a0f7ba85-7112-475d-940e-54c843309c96"]
+---
+time 1402294061
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X" modified:"1402061233" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X---" modified:"1402294061" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402294061
+new [description:"inglese" due:"1402351200" entry:"1402294061" imask:"21" modified:"1402061233" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"c931c24f-aa25-4dbd-8a2b-320068daaa03"]
+---
+time 1402294061
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X" modified:"1402061233" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X-" modified:"1402294061" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402294109
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X---" modified:"1402294061" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X---" modified:"1402294109" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402294109
+old [description:"Setup" due:"1402178400" entry:"1402294061" imask:"40" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"0ad68eac-920d-4162-9d3e-dfcfb0ca339b"]
+new [description:"Setup" due:"1402178400" entry:"1402294061" imask:"40" modified:"1402294109" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402294109" status:"pending" uuid:"0ad68eac-920d-4162-9d3e-dfcfb0ca339b"]
+---
+time 1402381456
+new [description:"Setup" due:"1402437600" entry:"1402381456" imask:"43" modified:"1402294109" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d21bc516-f996-4917-b6b7-b3bcfd1574b9"]
+---
+time 1402381456
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X---" modified:"1402294109" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X----" modified:"1402381456" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402381456
+new [description:"inglese" due:"1402524000" entry:"1402381456" imask:"22" modified:"1402294061" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"105f1960-ce7b-4fec-a757-ef1dc873d670"]
+---
+time 1402381456
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X-" modified:"1402294061" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X--" modified:"1402381456" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402381461
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X----" modified:"1402381456" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+---" modified:"1402381461" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402381461
+old [description:"Setup" due:"1402178400" entry:"1402294061" imask:"40" modified:"1402294109" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402294109" status:"pending" uuid:"0ad68eac-920d-4162-9d3e-dfcfb0ca339b"]
+new [description:"Setup" due:"1402178400" end:"1402381461" entry:"1402294061" imask:"40" modified:"1402381461" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402294109" status:"completed" uuid:"0ad68eac-920d-4162-9d3e-dfcfb0ca339b"]
+---
+time 1402381475
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+---" modified:"1402381461" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++--" modified:"1402381475" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402381475
+old [description:"Setup" due:"1402264800" entry:"1402294061" imask:"41" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d363c68b-c102-4805-8b3e-fbafea28b77b"]
+new [description:"Setup" due:"1402264800" end:"1402381475" entry:"1402294061" imask:"41" modified:"1402381475" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"d363c68b-c102-4805-8b3e-fbafea28b77b"]
+---
+time 1402381480
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++--" modified:"1402381475" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++-" modified:"1402381480" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402381480
+old [description:"Setup" due:"1402351200" entry:"1402294061" imask:"42" modified:"1402061233" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"a0f7ba85-7112-475d-940e-54c843309c96"]
+new [description:"Setup" due:"1402351200" end:"1402381480" entry:"1402294061" imask:"42" modified:"1402381480" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"a0f7ba85-7112-475d-940e-54c843309c96"]
+---
+time 1402473211
+new [description:"Setup" due:"1402524000" entry:"1402473211" imask:"44" modified:"1402381480" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"b87d72bc-d311-40da-b7ce-cad723631413"]
+---
+time 1402473211
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++-" modified:"1402381480" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++--" modified:"1402473211" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402473215
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++--" modified:"1402473211" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++--" modified:"1402473215" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402473215
+old [description:"Setup" due:"1402437600" entry:"1402381456" imask:"43" modified:"1402294109" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d21bc516-f996-4917-b6b7-b3bcfd1574b9"]
+new [description:"Setup" due:"1402437600" entry:"1402381456" imask:"43" modified:"1402473215" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402473215" status:"pending" uuid:"d21bc516-f996-4917-b6b7-b3bcfd1574b9"]
+---
+time 1402473233
+new [description:"remove check nagios 669052" entry:"1402473233" status:"pending" uuid:"8e592497-a8dd-4841-a625-e4e4d4b4e4db"]
+---
+time 1402495398
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++--" modified:"1402473215" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++-" modified:"1402495398" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402495398
+old [description:"Setup" due:"1402437600" entry:"1402381456" imask:"43" modified:"1402473215" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402473215" status:"pending" uuid:"d21bc516-f996-4917-b6b7-b3bcfd1574b9"]
+new [description:"Setup" due:"1402437600" end:"1402495398" entry:"1402381456" imask:"43" modified:"1402495398" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402473215" status:"completed" uuid:"d21bc516-f996-4917-b6b7-b3bcfd1574b9"]
+---
+time 1402555838
+new [description:"Setup" due:"1402610400" entry:"1402555838" imask:"45" modified:"1402495398" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ae54c31c-e313-4ddd-868d-041a96451fdc"]
+---
+time 1402555838
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++-" modified:"1402495398" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++--" modified:"1402555838" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402555838
+new [description:"inglese" due:"1402696800" entry:"1402555838" imask:"23" modified:"1402381456" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"8caaf5c6-9eb8-423d-9a49-72bf48745662"]
+---
+time 1402555838
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X--" modified:"1402381456" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X---" modified:"1402555838" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402644839
+new [description:"Setup" due:"1402696800" entry:"1402644839" imask:"46" modified:"1402555838" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"748725df-cda4-4cfc-9d92-958fbab797ea"]
+---
+time 1402644839
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++--" modified:"1402555838" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++---" modified:"1402644839" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402645164
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++---" modified:"1402644839" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++++--" modified:"1402645164" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402645164
+old [description:"Setup" due:"1402524000" entry:"1402473211" imask:"44" modified:"1402381480" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"b87d72bc-d311-40da-b7ce-cad723631413"]
+new [description:"Setup" due:"1402524000" end:"1402645164" entry:"1402473211" imask:"44" modified:"1402645164" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"b87d72bc-d311-40da-b7ce-cad723631413"]
+---
+time 1402645169
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++++--" modified:"1402645164" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++++--" modified:"1402645169" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402645169
+old [description:"Setup" due:"1402610400" entry:"1402555838" imask:"45" modified:"1402495398" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ae54c31c-e313-4ddd-868d-041a96451fdc"]
+new [description:"Setup" due:"1402610400" entry:"1402555838" imask:"45" modified:"1402645169" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402645169" status:"pending" uuid:"ae54c31c-e313-4ddd-868d-041a96451fdc"]
+---
+time 1402656499
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X+++++--" modified:"1402645169" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++-" modified:"1402656499" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402656499
+old [description:"Setup" due:"1402610400" entry:"1402555838" imask:"45" modified:"1402645169" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402645169" status:"pending" uuid:"ae54c31c-e313-4ddd-868d-041a96451fdc"]
+new [description:"Setup" due:"1402610400" end:"1402656499" entry:"1402555838" imask:"45" modified:"1402656499" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402645169" status:"completed" uuid:"ae54c31c-e313-4ddd-868d-041a96451fdc"]
+---
+time 1402656505
+old [description:"bigbrother custom messages" entry:"1401452725" modified:"1401452732" project:"work" start:"1401452732" status:"pending" uuid:"cd1f4f33-f2ec-4459-9ef6-73d3d67cf746"]
+new [description:"bigbrother custom messages" end:"1402656505" entry:"1401452725" modified:"1402656505" project:"work" start:"1401452732" status:"completed" uuid:"cd1f4f33-f2ec-4459-9ef6-73d3d67cf746"]
+---
+time 1402656511
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X---" modified:"1402555838" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X-+-" modified:"1402656511" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402656511
+old [description:"inglese" due:"1402524000" entry:"1402381456" imask:"22" modified:"1402294061" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"105f1960-ce7b-4fec-a757-ef1dc873d670"]
+new [description:"inglese" due:"1402524000" end:"1402656511" entry:"1402381456" imask:"22" modified:"1402656511" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"105f1960-ce7b-4fec-a757-ef1dc873d670"]
+---
+time 1402656515
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++X-+-" modified:"1402656511" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+-" modified:"1402656515" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402656515
+old [description:"inglese" due:"1402351200" entry:"1402294061" imask:"21" modified:"1402061233" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"c931c24f-aa25-4dbd-8a2b-320068daaa03"]
+new [description:"inglese" due:"1402351200" end:"1402656514" entry:"1402294061" imask:"21" modified:"1402656515" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"c931c24f-aa25-4dbd-8a2b-320068daaa03"]
+---
+time 1402656530
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+-" modified:"1402656515" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X" modified:"1402656530" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402656530
+old [description:"inglese" due:"1402696800" entry:"1402555838" imask:"23" modified:"1402381456" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"8caaf5c6-9eb8-423d-9a49-72bf48745662"]
+new [description:"inglese" due:"1402696800" end:"1402656526" entry:"1402555838" imask:"23" modified:"1402656530" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"8caaf5c6-9eb8-423d-9a49-72bf48745662"]
+---
+time 1402656535
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++-" modified:"1402656499" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++X" modified:"1402656535" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402656535
+old [description:"Setup" due:"1402696800" entry:"1402644839" imask:"46" modified:"1402555838" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"748725df-cda4-4cfc-9d92-958fbab797ea"]
+new [description:"Setup" due:"1402696800" end:"1402656530" entry:"1402644839" imask:"46" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"748725df-cda4-4cfc-9d92-958fbab797ea"]
+---
+time 1402903419
+new [description:"Setup" due:"1402783200" entry:"1402903419" imask:"47" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"0d27fb43-8a6f-4a0a-979a-8e84457da1bc"]
+---
+time 1402903419
+new [description:"Setup" due:"1402869600" entry:"1402903419" imask:"48" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"b4d46c56-4c1c-49d5-a86a-d2c27534ae17"]
+---
+time 1402903419
+new [description:"Setup" due:"1402956000" entry:"1402903419" imask:"49" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f59e1083-8614-43a6-a945-87ec5821e6cf"]
+---
+time 1402903419
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++X" modified:"1402656535" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++X---" modified:"1402903419" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402903419
+new [description:"inglese" due:"1402869600" entry:"1402903419" imask:"24" modified:"1402656530" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"6f1c8d9a-4b28-44d8-9b1c-e11fcfe2d8f6"]
+---
+time 1402903419
+new [description:"inglese" due:"1403042400" entry:"1402903419" imask:"25" modified:"1402656530" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"f7bdb35d-f3cf-4c8c-b19a-9c4f67c62af1"]
+---
+time 1402903419
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X" modified:"1402656530" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X--" modified:"1402903419" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1402903428
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++X---" modified:"1402903419" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX--" modified:"1402903428" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402903428
+old [description:"Setup" due:"1402783200" entry:"1402903419" imask:"47" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"0d27fb43-8a6f-4a0a-979a-8e84457da1bc"]
+new [description:"Setup" due:"1402783200" end:"1402903427" entry:"1402903419" imask:"47" modified:"1402903428" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"0d27fb43-8a6f-4a0a-979a-8e84457da1bc"]
+---
+time 1402903436
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX--" modified:"1402903428" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX--" modified:"1402903436" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402903436
+old [description:"Setup" due:"1402869600" entry:"1402903419" imask:"48" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"b4d46c56-4c1c-49d5-a86a-d2c27534ae17"]
+new [description:"Setup" due:"1402869600" entry:"1402903419" imask:"48" modified:"1402903436" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402903436" status:"pending" uuid:"b4d46c56-4c1c-49d5-a86a-d2c27534ae17"]
+---
+time 1402903717
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX--" modified:"1402903436" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+-" modified:"1402903717" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402903717
+old [description:"Setup" due:"1402869600" entry:"1402903419" imask:"48" modified:"1402903436" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402903436" status:"pending" uuid:"b4d46c56-4c1c-49d5-a86a-d2c27534ae17"]
+new [description:"Setup" due:"1402869600" end:"1402903717" entry:"1402903419" imask:"48" modified:"1402903717" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402903436" status:"completed" uuid:"b4d46c56-4c1c-49d5-a86a-d2c27534ae17"]
+---
+time 1402904926
+new [description:"fix bb check" entry:"1402904926" status:"pending" uuid:"c873a57b-51d4-4b6f-8763-a2965d6ed808"]
+---
+time 1402904929
+old [description:"fix bb check" entry:"1402904926" status:"pending" uuid:"c873a57b-51d4-4b6f-8763-a2965d6ed808"]
+new [description:"fix bb check" entry:"1402904926" modified:"1402904929" start:"1402904929" status:"pending" uuid:"c873a57b-51d4-4b6f-8763-a2965d6ed808"]
+---
+time 1402987764
+new [description:"Setup" due:"1403042400" entry:"1402987764" imask:"50" modified:"1402903717" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"7b54ae6b-9c4b-42bc-8aa4-bda7f2418fa6"]
+---
+time 1402987764
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+-" modified:"1402903717" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+--" modified:"1402987764" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402987771
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+--" modified:"1402987764" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+--" modified:"1402987771" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402987771
+old [description:"Setup" due:"1402956000" entry:"1402903419" imask:"49" modified:"1402656535" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f59e1083-8614-43a6-a945-87ec5821e6cf"]
+new [description:"Setup" due:"1402956000" entry:"1402903419" imask:"49" modified:"1402987771" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402987771" status:"pending" uuid:"f59e1083-8614-43a6-a945-87ec5821e6cf"]
+---
+time 1402988063
+old [description:"remove check nagios 669052" entry:"1402473233" status:"pending" uuid:"8e592497-a8dd-4841-a625-e4e4d4b4e4db"]
+new [description:"remove check nagios 669052" end:"1402988063" entry:"1402473233" modified:"1402988063" status:"completed" uuid:"8e592497-a8dd-4841-a625-e4e4d4b4e4db"]
+---
+time 1402988063
+old [description:"fix bb check" entry:"1402904926" modified:"1402904929" start:"1402904929" status:"pending" uuid:"c873a57b-51d4-4b6f-8763-a2965d6ed808"]
+new [description:"fix bb check" end:"1402988063" entry:"1402904926" modified:"1402988063" start:"1402904929" status:"completed" uuid:"c873a57b-51d4-4b6f-8763-a2965d6ed808"]
+---
+time 1402990276
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+--" modified:"1402987771" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++-" modified:"1402990276" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1402990276
+old [description:"Setup" due:"1402956000" entry:"1402903419" imask:"49" modified:"1402987771" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402987771" status:"pending" uuid:"f59e1083-8614-43a6-a945-87ec5821e6cf"]
+new [description:"Setup" due:"1402956000" end:"1402990276" entry:"1402903419" imask:"49" modified:"1402990276" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1402987771" status:"completed" uuid:"f59e1083-8614-43a6-a945-87ec5821e6cf"]
+---
+time 1402991850
+new [description:"leaf engine panel t669938" entry:"1402991850" project:"ticket" status:"pending" uuid:"0aa66cae-fd9f-42c3-bf7d-d7a6ddbd8c3e"]
+---
+time 1403002921
+old [description:"leaf engine panel t669938" entry:"1402991850" project:"ticket" status:"pending" uuid:"0aa66cae-fd9f-42c3-bf7d-d7a6ddbd8c3e"]
+new [annotation_1403002921:"locations ticket t670027" description:"leaf engine panel t669938" entry:"1402991850" modified:"1403002921" project:"ticket" status:"pending" uuid:"0aa66cae-fd9f-42c3-bf7d-d7a6ddbd8c3e"]
+---
+time 1403096379
+new [description:"Setup" due:"1403128800" entry:"1403096379" imask:"51" modified:"1402990276" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"31b3d549-e05c-4713-95fb-df083819781f"]
+---
+time 1403096379
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++-" modified:"1402990276" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++--" modified:"1403096379" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403096379
+new [description:"inglese" due:"1403215200" entry:"1403096379" imask:"26" modified:"1402903419" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"a5a3b024-9ddc-4d4c-8889-00a727026041"]
+---
+time 1403096379
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X--" modified:"1402903419" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X---" modified:"1403096379" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1403096413
+new [description:"change ruspe billing period" entry:"1403096413" project:"work" status:"pending" uuid:"7990fb25-c4ef-4b2e-ae08-f72aa171e1ca"]
+---
+time 1403096474
+old [description:"change ruspe billing period" entry:"1403096413" project:"work" status:"pending" uuid:"7990fb25-c4ef-4b2e-ae08-f72aa171e1ca"]
+new [annotation_1403096474:"commit for period is 9762 remember to remove where conditions" description:"change ruspe billing period" entry:"1403096413" modified:"1403096474" project:"work" status:"pending" uuid:"7990fb25-c4ef-4b2e-ae08-f72aa171e1ca"]
+---
+time 1403101756
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X---" modified:"1403096379" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+--" modified:"1403101756" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1403101756
+old [description:"inglese" due:"1402869600" entry:"1402903419" imask:"24" modified:"1402656530" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"6f1c8d9a-4b28-44d8-9b1c-e11fcfe2d8f6"]
+new [description:"inglese" due:"1402869600" end:"1403101756" entry:"1402903419" imask:"24" modified:"1403101756" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"completed" uuid:"6f1c8d9a-4b28-44d8-9b1c-e11fcfe2d8f6"]
+---
+time 1403101766
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+--" modified:"1403101756" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+X-" modified:"1403101766" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1403101766
+old [description:"inglese" due:"1403042400" entry:"1402903419" imask:"25" modified:"1402656530" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"f7bdb35d-f3cf-4c8c-b19a-9c4f67c62af1"]
+new [description:"inglese" due:"1403042400" end:"1403101763" entry:"1402903419" imask:"25" modified:"1403101766" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"f7bdb35d-f3cf-4c8c-b19a-9c4f67c62af1"]
+---
+time 1403101769
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+X-" modified:"1403101766" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+XX" modified:"1403101769" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1403101769
+old [description:"inglese" due:"1403215200" entry:"1403096379" imask:"26" modified:"1402903419" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"pending" uuid:"a5a3b024-9ddc-4d4c-8889-00a727026041"]
+new [description:"inglese" due:"1403215200" end:"1403101769" entry:"1403096379" imask:"26" modified:"1403101769" parent:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a" project:"work" recur:"2daily" status:"deleted" uuid:"a5a3b024-9ddc-4d4c-8889-00a727026041"]
+---
+time 1403101769
+old [description:"inglese" due:"1398722400" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+XX" modified:"1403101769" project:"work" recur:"2daily" status:"recurring" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+new [description:"inglese" due:"1398722400" end:"1403101769" entry:"1398671428" mask:"++++XXX+XX+XXX++XX++XX+X+XX" modified:"1403101769" project:"work" recur:"2daily" status:"deleted" uuid:"9e99184d-4fb5-40f8-a05d-313c1cdbf98a"]
+---
+time 1403101774
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++--" modified:"1403096379" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+++-" modified:"1403101774" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403101774
+old [description:"Setup" due:"1403042400" entry:"1402987764" imask:"50" modified:"1402903717" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"7b54ae6b-9c4b-42bc-8aa4-bda7f2418fa6"]
+new [description:"Setup" due:"1403042400" end:"1403101774" entry:"1402987764" imask:"50" modified:"1403101774" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"7b54ae6b-9c4b-42bc-8aa4-bda7f2418fa6"]
+---
+time 1403101781
+old [annotation_1403002921:"locations ticket t670027" description:"leaf engine panel t669938" entry:"1402991850" modified:"1403002921" project:"ticket" status:"pending" uuid:"0aa66cae-fd9f-42c3-bf7d-d7a6ddbd8c3e"]
+new [annotation_1403002921:"locations ticket t670027" description:"leaf engine panel t669938" end:"1403101781" entry:"1402991850" modified:"1403101781" project:"ticket" status:"completed" uuid:"0aa66cae-fd9f-42c3-bf7d-d7a6ddbd8c3e"]
+---
+time 1403160442
+new [description:"Setup" due:"1403215200" entry:"1403160442" imask:"52" modified:"1403101774" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4f315235-1682-4af7-a4e1-58599704639f"]
+---
+time 1403160442
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+++-" modified:"1403101774" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+++--" modified:"1403160442" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403160446
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+++--" modified:"1403160442" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+++--" modified:"1403160446" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403160446
+old [description:"Setup" due:"1403128800" entry:"1403096379" imask:"51" modified:"1402990276" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"31b3d549-e05c-4713-95fb-df083819781f"]
+new [description:"Setup" due:"1403128800" entry:"1403096379" imask:"51" modified:"1403160446" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1403160446" status:"pending" uuid:"31b3d549-e05c-4713-95fb-df083819781f"]
+---
+time 1403160747
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX+++--" modified:"1403160446" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++-" modified:"1403160747" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403160747
+old [description:"Setup" due:"1403128800" entry:"1403096379" imask:"51" modified:"1403160446" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1403160446" status:"pending" uuid:"31b3d549-e05c-4713-95fb-df083819781f"]
+new [description:"Setup" due:"1403128800" end:"1403160747" entry:"1403096379" imask:"51" modified:"1403160747" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1403160446" status:"completed" uuid:"31b3d549-e05c-4713-95fb-df083819781f"]
+---
+time 1403246149
+new [description:"Setup" due:"1403301600" entry:"1403246149" imask:"53" modified:"1403160747" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"7a939440-d93e-4949-a0de-b3f5140f463d"]
+---
+time 1403246149
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++-" modified:"1403160747" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++--" modified:"1403246149" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403246154
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++--" modified:"1403246149" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++--" modified:"1403246154" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1403246154
+old [description:"Setup" due:"1403215200" entry:"1403160442" imask:"52" modified:"1403101774" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4f315235-1682-4af7-a4e1-58599704639f"]
+new [description:"Setup" due:"1403215200" entry:"1403160442" imask:"52" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1403246154" status:"pending" uuid:"4f315235-1682-4af7-a4e1-58599704639f"]
+---
+time 1405325428
+new [description:"Setup" due:"1403388000" entry:"1405325428" imask:"54" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4d9d6fdb-116d-4e98-bb3b-ba08725201a8"]
+---
+time 1405325428
+new [description:"Setup" due:"1403474400" entry:"1405325428" imask:"55" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"71a7f747-2f3c-41a0-921a-13cedba599f9"]
+---
+time 1405325428
+new [description:"Setup" due:"1403560800" entry:"1405325428" imask:"56" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"e18bf309-e854-4a27-a57c-35fde4e6a9dd"]
+---
+time 1405325428
+new [description:"Setup" due:"1403647200" entry:"1405325428" imask:"57" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"c02397b8-18d1-4d16-a1bd-9b1f53bd6c63"]
+---
+time 1405325428
+new [description:"Setup" due:"1403733600" entry:"1405325428" imask:"58" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6d6f97eb-02db-4c29-b5e5-7c6daaa5d70a"]
+---
+time 1405325428
+new [description:"Setup" due:"1403820000" entry:"1405325428" imask:"59" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d2697aea-f917-448a-be86-50f985d0e709"]
+---
+time 1405325428
+new [description:"Setup" due:"1403906400" entry:"1405325428" imask:"60" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f88e0897-cae5-439f-8d2f-d4a9f88fe114"]
+---
+time 1405325428
+new [description:"Setup" due:"1403992800" entry:"1405325428" imask:"61" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5d2849a8-43c8-4d87-b844-50669a2a1626"]
+---
+time 1405325428
+new [description:"Setup" due:"1404079200" entry:"1405325428" imask:"62" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"84d6de95-b68d-40f7-af39-cdc288b81f69"]
+---
+time 1405325428
+new [description:"Setup" due:"1404165600" entry:"1405325428" imask:"63" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6ddd7a46-519a-4e30-88f0-8e75ea2ca063"]
+---
+time 1405325428
+new [description:"Setup" due:"1404252000" entry:"1405325428" imask:"64" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"456f3d20-573d-4c09-81b1-af6cec67a530"]
+---
+time 1405325428
+new [description:"Setup" due:"1404338400" entry:"1405325428" imask:"65" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"45f525d7-8d6e-4737-9c9f-8956faf0ed13"]
+---
+time 1405325428
+new [description:"Setup" due:"1404424800" entry:"1405325428" imask:"66" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"52e272c7-92c0-48ae-86e8-8c09e969cc27"]
+---
+time 1405325428
+new [description:"Setup" due:"1404511200" entry:"1405325428" imask:"67" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"e2330412-c7bb-49e8-be59-6ee3feda2a59"]
+---
+time 1405325428
+new [description:"Setup" due:"1404597600" entry:"1405325428" imask:"68" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d70449cb-e483-4812-863b-30861d58bd6d"]
+---
+time 1405325428
+new [description:"Setup" due:"1404684000" entry:"1405325428" imask:"69" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"478822fd-bf7e-4f15-83f8-bcb3f5447dc5"]
+---
+time 1405325428
+new [description:"Setup" due:"1404770400" entry:"1405325428" imask:"70" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4ec698e6-16a6-4b0c-9f12-7c4bea92b8e4"]
+---
+time 1405325428
+new [description:"Setup" due:"1404856800" entry:"1405325428" imask:"71" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"205bd446-5079-42a6-8025-68e74d682d6f"]
+---
+time 1405325428
+new [description:"Setup" due:"1404943200" entry:"1405325428" imask:"72" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6a7bed5c-7f76-4609-83d0-b0ca1f589e6e"]
+---
+time 1405325428
+new [description:"Setup" due:"1405029600" entry:"1405325428" imask:"73" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"34b97dd4-9e6b-4dc1-977a-64227ac950bf"]
+---
+time 1405325428
+new [description:"Setup" due:"1405116000" entry:"1405325428" imask:"74" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"69d58d16-d696-45a7-912b-34315576112e"]
+---
+time 1405325428
+new [description:"Setup" due:"1405202400" entry:"1405325428" imask:"75" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"8a10013f-9417-4220-be3c-bd77c0535af1"]
+---
+time 1405325428
+new [description:"Setup" due:"1405288800" entry:"1405325428" imask:"76" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"a46147c9-051e-4afc-abbb-160205bce6e8"]
+---
+time 1405325428
+new [description:"Setup" due:"1405375200" entry:"1405325428" imask:"77" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"960ef911-3625-4169-98be-282a1774b971"]
+---
+time 1405325428
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++--" modified:"1403246154" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++--------------------------" modified:"1405325428" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325442
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++--------------------------" modified:"1405325428" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++X-------------------------" modified:"1405325442" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325442
+old [description:"Setup" due:"1403215200" entry:"1403160442" imask:"52" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1403246154" status:"pending" uuid:"4f315235-1682-4af7-a4e1-58599704639f"]
+new [description:"Setup" due:"1403215200" end:"1405325440" entry:"1403160442" imask:"52" modified:"1405325442" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1403246154" status:"deleted" uuid:"4f315235-1682-4af7-a4e1-58599704639f"]
+---
+time 1405325445
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++X-------------------------" modified:"1405325442" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XX------------------------" modified:"1405325445" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325445
+old [description:"Setup" due:"1403301600" entry:"1403246149" imask:"53" modified:"1403160747" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"7a939440-d93e-4949-a0de-b3f5140f463d"]
+new [description:"Setup" due:"1403301600" end:"1405325445" entry:"1403246149" imask:"53" modified:"1405325445" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"7a939440-d93e-4949-a0de-b3f5140f463d"]
+---
+time 1405325446
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XX------------------------" modified:"1405325445" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXX-----------------------" modified:"1405325446" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325446
+old [description:"Setup" due:"1403388000" entry:"1405325428" imask:"54" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4d9d6fdb-116d-4e98-bb3b-ba08725201a8"]
+new [description:"Setup" due:"1403388000" end:"1405325446" entry:"1405325428" imask:"54" modified:"1405325446" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"4d9d6fdb-116d-4e98-bb3b-ba08725201a8"]
+---
+time 1405325447
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXX-----------------------" modified:"1405325446" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXX----------------------" modified:"1405325447" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325447
+old [description:"Setup" due:"1403474400" entry:"1405325428" imask:"55" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"71a7f747-2f3c-41a0-921a-13cedba599f9"]
+new [description:"Setup" due:"1403474400" end:"1405325447" entry:"1405325428" imask:"55" modified:"1405325447" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"71a7f747-2f3c-41a0-921a-13cedba599f9"]
+---
+time 1405325447
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXX----------------------" modified:"1405325447" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXX---------------------" modified:"1405325447" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325447
+old [description:"Setup" due:"1403560800" entry:"1405325428" imask:"56" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"e18bf309-e854-4a27-a57c-35fde4e6a9dd"]
+new [description:"Setup" due:"1403560800" end:"1405325447" entry:"1405325428" imask:"56" modified:"1405325447" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"e18bf309-e854-4a27-a57c-35fde4e6a9dd"]
+---
+time 1405325448
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXX---------------------" modified:"1405325447" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXX--------------------" modified:"1405325448" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325448
+old [description:"Setup" due:"1403647200" entry:"1405325428" imask:"57" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"c02397b8-18d1-4d16-a1bd-9b1f53bd6c63"]
+new [description:"Setup" due:"1403647200" end:"1405325448" entry:"1405325428" imask:"57" modified:"1405325448" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"c02397b8-18d1-4d16-a1bd-9b1f53bd6c63"]
+---
+time 1405325448
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXX--------------------" modified:"1405325448" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXX-------------------" modified:"1405325448" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325448
+old [description:"Setup" due:"1403733600" entry:"1405325428" imask:"58" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6d6f97eb-02db-4c29-b5e5-7c6daaa5d70a"]
+new [description:"Setup" due:"1403733600" end:"1405325448" entry:"1405325428" imask:"58" modified:"1405325448" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"6d6f97eb-02db-4c29-b5e5-7c6daaa5d70a"]
+---
+time 1405325449
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXX-------------------" modified:"1405325448" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXX------------------" modified:"1405325449" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325449
+old [description:"Setup" due:"1403820000" entry:"1405325428" imask:"59" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d2697aea-f917-448a-be86-50f985d0e709"]
+new [description:"Setup" due:"1403820000" end:"1405325449" entry:"1405325428" imask:"59" modified:"1405325449" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"d2697aea-f917-448a-be86-50f985d0e709"]
+---
+time 1405325449
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXX------------------" modified:"1405325449" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXX-----------------" modified:"1405325449" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325449
+old [description:"Setup" due:"1403906400" entry:"1405325428" imask:"60" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"f88e0897-cae5-439f-8d2f-d4a9f88fe114"]
+new [description:"Setup" due:"1403906400" end:"1405325449" entry:"1405325428" imask:"60" modified:"1405325449" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"f88e0897-cae5-439f-8d2f-d4a9f88fe114"]
+---
+time 1405325450
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXX-----------------" modified:"1405325449" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXX----------------" modified:"1405325450" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325450
+old [description:"Setup" due:"1403992800" entry:"1405325428" imask:"61" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5d2849a8-43c8-4d87-b844-50669a2a1626"]
+new [description:"Setup" due:"1403992800" end:"1405325450" entry:"1405325428" imask:"61" modified:"1405325450" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"5d2849a8-43c8-4d87-b844-50669a2a1626"]
+---
+time 1405325450
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXX----------------" modified:"1405325450" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXX---------------" modified:"1405325450" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325450
+old [description:"Setup" due:"1404079200" entry:"1405325428" imask:"62" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"84d6de95-b68d-40f7-af39-cdc288b81f69"]
+new [description:"Setup" due:"1404079200" end:"1405325450" entry:"1405325428" imask:"62" modified:"1405325450" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"84d6de95-b68d-40f7-af39-cdc288b81f69"]
+---
+time 1405325451
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXX---------------" modified:"1405325450" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXX--------------" modified:"1405325451" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325451
+old [description:"Setup" due:"1404165600" entry:"1405325428" imask:"63" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6ddd7a46-519a-4e30-88f0-8e75ea2ca063"]
+new [description:"Setup" due:"1404165600" end:"1405325451" entry:"1405325428" imask:"63" modified:"1405325451" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"6ddd7a46-519a-4e30-88f0-8e75ea2ca063"]
+---
+time 1405325451
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXX--------------" modified:"1405325451" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXX-------------" modified:"1405325451" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325451
+old [description:"Setup" due:"1404252000" entry:"1405325428" imask:"64" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"456f3d20-573d-4c09-81b1-af6cec67a530"]
+new [description:"Setup" due:"1404252000" end:"1405325451" entry:"1405325428" imask:"64" modified:"1405325451" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"456f3d20-573d-4c09-81b1-af6cec67a530"]
+---
+time 1405325452
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXX-------------" modified:"1405325451" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXX------------" modified:"1405325452" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325452
+old [description:"Setup" due:"1404338400" entry:"1405325428" imask:"65" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"45f525d7-8d6e-4737-9c9f-8956faf0ed13"]
+new [description:"Setup" due:"1404338400" end:"1405325452" entry:"1405325428" imask:"65" modified:"1405325452" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"45f525d7-8d6e-4737-9c9f-8956faf0ed13"]
+---
+time 1405325452
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXX------------" modified:"1405325452" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXX-----------" modified:"1405325452" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325452
+old [description:"Setup" due:"1404424800" entry:"1405325428" imask:"66" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"52e272c7-92c0-48ae-86e8-8c09e969cc27"]
+new [description:"Setup" due:"1404424800" end:"1405325452" entry:"1405325428" imask:"66" modified:"1405325452" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"52e272c7-92c0-48ae-86e8-8c09e969cc27"]
+---
+time 1405325452
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXX-----------" modified:"1405325452" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXX----------" modified:"1405325452" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325452
+old [description:"Setup" due:"1404511200" entry:"1405325428" imask:"67" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"e2330412-c7bb-49e8-be59-6ee3feda2a59"]
+new [description:"Setup" due:"1404511200" end:"1405325452" entry:"1405325428" imask:"67" modified:"1405325452" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"e2330412-c7bb-49e8-be59-6ee3feda2a59"]
+---
+time 1405325453
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXX----------" modified:"1405325452" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXX---------" modified:"1405325453" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325453
+old [description:"Setup" due:"1404597600" entry:"1405325428" imask:"68" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"d70449cb-e483-4812-863b-30861d58bd6d"]
+new [description:"Setup" due:"1404597600" end:"1405325453" entry:"1405325428" imask:"68" modified:"1405325453" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"d70449cb-e483-4812-863b-30861d58bd6d"]
+---
+time 1405325453
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXX---------" modified:"1405325453" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXX--------" modified:"1405325453" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325453
+old [description:"Setup" due:"1404684000" entry:"1405325428" imask:"69" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"478822fd-bf7e-4f15-83f8-bcb3f5447dc5"]
+new [description:"Setup" due:"1404684000" end:"1405325453" entry:"1405325428" imask:"69" modified:"1405325453" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"478822fd-bf7e-4f15-83f8-bcb3f5447dc5"]
+---
+time 1405325454
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXX--------" modified:"1405325453" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXX-------" modified:"1405325454" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325454
+old [description:"Setup" due:"1404770400" entry:"1405325428" imask:"70" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"4ec698e6-16a6-4b0c-9f12-7c4bea92b8e4"]
+new [description:"Setup" due:"1404770400" end:"1405325454" entry:"1405325428" imask:"70" modified:"1405325454" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"4ec698e6-16a6-4b0c-9f12-7c4bea92b8e4"]
+---
+time 1405325454
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXX-------" modified:"1405325454" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXX------" modified:"1405325454" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325454
+old [description:"Setup" due:"1404856800" entry:"1405325428" imask:"71" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"205bd446-5079-42a6-8025-68e74d682d6f"]
+new [description:"Setup" due:"1404856800" end:"1405325454" entry:"1405325428" imask:"71" modified:"1405325454" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"205bd446-5079-42a6-8025-68e74d682d6f"]
+---
+time 1405325454
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXX------" modified:"1405325454" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXX-----" modified:"1405325454" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325454
+old [description:"Setup" due:"1404943200" entry:"1405325428" imask:"72" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"6a7bed5c-7f76-4609-83d0-b0ca1f589e6e"]
+new [description:"Setup" due:"1404943200" end:"1405325454" entry:"1405325428" imask:"72" modified:"1405325454" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"6a7bed5c-7f76-4609-83d0-b0ca1f589e6e"]
+---
+time 1405325455
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXX-----" modified:"1405325454" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXX----" modified:"1405325455" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325455
+old [description:"Setup" due:"1405029600" entry:"1405325428" imask:"73" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"34b97dd4-9e6b-4dc1-977a-64227ac950bf"]
+new [description:"Setup" due:"1405029600" end:"1405325455" entry:"1405325428" imask:"73" modified:"1405325455" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"34b97dd4-9e6b-4dc1-977a-64227ac950bf"]
+---
+time 1405325455
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXX----" modified:"1405325455" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXX---" modified:"1405325455" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325455
+old [description:"Setup" due:"1405116000" entry:"1405325428" imask:"74" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"69d58d16-d696-45a7-912b-34315576112e"]
+new [description:"Setup" due:"1405116000" end:"1405325455" entry:"1405325428" imask:"74" modified:"1405325455" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"69d58d16-d696-45a7-912b-34315576112e"]
+---
+time 1405325456
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXX---" modified:"1405325455" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXX--" modified:"1405325456" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325456
+old [description:"Setup" due:"1405202400" entry:"1405325428" imask:"75" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"8a10013f-9417-4220-be3c-bd77c0535af1"]
+new [description:"Setup" due:"1405202400" end:"1405325456" entry:"1405325428" imask:"75" modified:"1405325456" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"8a10013f-9417-4220-be3c-bd77c0535af1"]
+---
+time 1405325456
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXX--" modified:"1405325456" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXX-" modified:"1405325456" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325456
+old [description:"Setup" due:"1405288800" entry:"1405325428" imask:"76" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"a46147c9-051e-4afc-abbb-160205bce6e8"]
+new [description:"Setup" due:"1405288800" end:"1405325456" entry:"1405325428" imask:"76" modified:"1405325456" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"a46147c9-051e-4afc-abbb-160205bce6e8"]
+---
+time 1405325457
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXX-" modified:"1405325456" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX" modified:"1405325457" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405325457
+old [description:"Setup" due:"1405375200" entry:"1405325428" imask:"77" modified:"1403246154" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"960ef911-3625-4169-98be-282a1774b971"]
+new [description:"Setup" due:"1405375200" end:"1405325457" entry:"1405325428" imask:"77" modified:"1405325457" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"960ef911-3625-4169-98be-282a1774b971"]
+---
+time 1405325464
+old [annotation_1403096474:"commit for period is 9762 remember to remove where conditions" description:"change ruspe billing period" entry:"1403096413" modified:"1403096474" project:"work" status:"pending" uuid:"7990fb25-c4ef-4b2e-ae08-f72aa171e1ca"]
+new [annotation_1403096474:"commit for period is 9762 remember to remove where conditions" description:"change ruspe billing period" end:"1405325464" entry:"1403096413" modified:"1405325464" project:"work" status:"completed" uuid:"7990fb25-c4ef-4b2e-ae08-f72aa171e1ca"]
+---
+time 1405325496
+new [description:"increase space on Dada_Logs_DMZ" entry:"1405325496" project:"work" status:"pending" uuid:"2a13725f-18a6-423d-ab3c-659212ee1030"]
+---
+time 1405325524
+old [description:"increase space on Dada_Logs_DMZ" entry:"1405325496" project:"work" status:"pending" uuid:"2a13725f-18a6-423d-ab3c-659212ee1030"]
+new [annotation_1405325524:"ticket 674269" description:"increase space on Dada_Logs_DMZ" entry:"1405325496" modified:"1405325524" project:"work" status:"pending" uuid:"2a13725f-18a6-423d-ab3c-659212ee1030"]
+---
+time 1405326992
+new [description:"blackflag notifies" entry:"1405326992" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+---
+time 1405327011
+old [description:"blackflag notifies" entry:"1405326992" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+new [description:"blackflag notifies" entry:"1405326992" modified:"1405327011" project:"work" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+---
+time 1405327018
+old [description:"blackflag notifies" entry:"1405326992" modified:"1405327011" project:"work" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+new [description:"blackflag notifies" entry:"1405326992" modified:"1405327018" project:"work" start:"1405327018" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+---
+time 1405347672
+old [description:"blackflag notifies" entry:"1405326992" modified:"1405327018" project:"work" start:"1405327018" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+new [annotation_1405347672:"qa ticket 674416" description:"blackflag notifies" entry:"1405326992" modified:"1405347672" project:"work" start:"1405327018" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+---
+time 1405347676
+old [annotation_1405325524:"ticket 674269" description:"increase space on Dada_Logs_DMZ" entry:"1405325496" modified:"1405325524" project:"work" status:"pending" uuid:"2a13725f-18a6-423d-ab3c-659212ee1030"]
+new [annotation_1405325524:"ticket 674269" description:"increase space on Dada_Logs_DMZ" end:"1405347676" entry:"1405325496" modified:"1405347676" project:"work" status:"completed" uuid:"2a13725f-18a6-423d-ab3c-659212ee1030"]
+---
+time 1405405051
+new [description:"Setup" due:"1405461600" entry:"1405405051" imask:"78" modified:"1405325457" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"07a6c7b4-df7e-4111-aaed-6f849b03fe2f"]
+---
+time 1405405051
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX" modified:"1405325457" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX-" modified:"1405405051" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405405055
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX-" modified:"1405405051" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX-" modified:"1405405055" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405405055
+old [description:"Setup" due:"1405461600" entry:"1405405051" imask:"78" modified:"1405325457" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"07a6c7b4-df7e-4111-aaed-6f849b03fe2f"]
+new [description:"Setup" due:"1405461600" entry:"1405405051" imask:"78" modified:"1405405055" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405405055" status:"pending" uuid:"07a6c7b4-df7e-4111-aaed-6f849b03fe2f"]
+---
+time 1405408390
+new [description:"cert nagios check blackflag" entry:"1405408390" project:"work" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+---
+time 1405408400
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX-" modified:"1405405055" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+" modified:"1405408400" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405408400
+old [description:"Setup" due:"1405461600" entry:"1405405051" imask:"78" modified:"1405405055" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405405055" status:"pending" uuid:"07a6c7b4-df7e-4111-aaed-6f849b03fe2f"]
+new [description:"Setup" due:"1405461600" end:"1405408400" entry:"1405405051" imask:"78" modified:"1405408400" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405405055" status:"completed" uuid:"07a6c7b4-df7e-4111-aaed-6f849b03fe2f"]
+---
+time 1405408404
+old [description:"cert nagios check blackflag" entry:"1405408390" project:"work" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+new [description:"cert nagios check blackflag" entry:"1405408390" modified:"1405408404" project:"work" start:"1405408404" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+---
+time 1405427847
+old [description:"cert nagios check blackflag" entry:"1405408390" modified:"1405408404" project:"work" start:"1405408404" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+new [depends:"e9e76e85-5ab6-431a-bc65-a6691ef5e598" description:"cert nagios check blackflag" entry:"1405408390" modified:"1405427847" project:"work" start:"1405408404" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+---
+time 1405495351
+new [description:"Setup" due:"1405548000" entry:"1405495351" imask:"79" modified:"1405408400" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ef6e8f73-9836-4b9d-9708-b7a5f51cf60b"]
+---
+time 1405495351
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+" modified:"1405408400" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+-" modified:"1405495351" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405495354
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+-" modified:"1405495351" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+-" modified:"1405495354" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405495354
+old [description:"Setup" due:"1405548000" entry:"1405495351" imask:"79" modified:"1405408400" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"ef6e8f73-9836-4b9d-9708-b7a5f51cf60b"]
+new [description:"Setup" due:"1405548000" entry:"1405495351" imask:"79" modified:"1405495354" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405495354" status:"pending" uuid:"ef6e8f73-9836-4b9d-9708-b7a5f51cf60b"]
+---
+time 1405523256
+old [depends:"e9e76e85-5ab6-431a-bc65-a6691ef5e598" description:"cert nagios check blackflag" entry:"1405408390" modified:"1405427847" project:"work" start:"1405408404" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+new [annotation_1405523256:"ticket 674980" depends:"e9e76e85-5ab6-431a-bc65-a6691ef5e598" description:"cert nagios check blackflag" entry:"1405408390" modified:"1405523256" project:"work" start:"1405408404" status:"pending" uuid:"b56fb122-2dc2-45a9-bb72-bd53f88794bb"]
+---
+time 1405588430
+new [description:"Setup" due:"1405634400" entry:"1405588430" imask:"80" modified:"1405495354" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"fcaf4faa-622b-4cd0-8327-c2c557ac7a9d"]
+---
+time 1405588430
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+-" modified:"1405495354" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+--" modified:"1405588430" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405588435
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+--" modified:"1405588430" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++-" modified:"1405588435" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405588435
+old [description:"Setup" due:"1405548000" entry:"1405495351" imask:"79" modified:"1405495354" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405495354" status:"pending" uuid:"ef6e8f73-9836-4b9d-9708-b7a5f51cf60b"]
+new [description:"Setup" due:"1405548000" end:"1405588435" entry:"1405495351" imask:"79" modified:"1405588435" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405495354" status:"completed" uuid:"ef6e8f73-9836-4b9d-9708-b7a5f51cf60b"]
+---
+time 1405588439
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++-" modified:"1405588435" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++-" modified:"1405588439" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405588439
+old [description:"Setup" due:"1405634400" entry:"1405588430" imask:"80" modified:"1405495354" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"fcaf4faa-622b-4cd0-8327-c2c557ac7a9d"]
+new [description:"Setup" due:"1405634400" entry:"1405588430" imask:"80" modified:"1405588439" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405588439" status:"pending" uuid:"fcaf4faa-622b-4cd0-8327-c2c557ac7a9d"]
+---
+time 1405588452
+old [annotation_1405347672:"qa ticket 674416" description:"blackflag notifies" entry:"1405326992" modified:"1405347672" project:"work" start:"1405327018" status:"pending" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+new [annotation_1405347672:"qa ticket 674416" description:"blackflag notifies" end:"1405588452" entry:"1405326992" modified:"1405588452" project:"work" start:"1405327018" status:"completed" uuid:"e9e76e85-5ab6-431a-bc65-a6691ef5e598"]
+---
+time 1405589299
+new [description:"abilitare docki per tutti ticket 675089" entry:"1405589299" project:"work" status:"pending" uuid:"93515f02-bd32-43d1-bfa4-1cf86cebe3b6"]
+---
+time 1405599753
+new [description:"remove check nagios 675167" entry:"1405599753" project:"work" status:"pending" uuid:"2feb5b23-a2c9-492d-8cd4-4cd306001c60"]
+---
+time 1405664365
+new [description:"Setup" due:"1405720800" entry:"1405664365" imask:"81" modified:"1405588439" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5252ad0c-b175-453c-b753-c711fc277082"]
+---
+time 1405664365
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++-" modified:"1405588439" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++--" modified:"1405664365" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405664369
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++--" modified:"1405664365" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+++-" modified:"1405664369" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405664369
+old [description:"Setup" due:"1405634400" entry:"1405588430" imask:"80" modified:"1405588439" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405588439" status:"pending" uuid:"fcaf4faa-622b-4cd0-8327-c2c557ac7a9d"]
+new [description:"Setup" due:"1405634400" end:"1405664369" entry:"1405588430" imask:"80" modified:"1405664369" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405588439" status:"completed" uuid:"fcaf4faa-622b-4cd0-8327-c2c557ac7a9d"]
+---
+time 1405664372
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+++-" modified:"1405664369" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+++-" modified:"1405664372" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405664372
+old [description:"Setup" due:"1405720800" entry:"1405664365" imask:"81" modified:"1405588439" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"5252ad0c-b175-453c-b753-c711fc277082"]
+new [description:"Setup" due:"1405720800" entry:"1405664365" imask:"81" modified:"1405664372" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405664372" status:"pending" uuid:"5252ad0c-b175-453c-b753-c711fc277082"]
+---
+time 1405667740
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX+++-" modified:"1405664372" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++" modified:"1405667740" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405667740
+old [description:"Setup" due:"1405720800" entry:"1405664365" imask:"81" modified:"1405664372" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405664372" status:"pending" uuid:"5252ad0c-b175-453c-b753-c711fc277082"]
+new [description:"Setup" due:"1405720800" end:"1405667740" entry:"1405664365" imask:"81" modified:"1405667740" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405664372" status:"completed" uuid:"5252ad0c-b175-453c-b753-c711fc277082"]
+---
+time 1405667782
+old [description:"remove check nagios 675167" entry:"1405599753" project:"work" status:"pending" uuid:"2feb5b23-a2c9-492d-8cd4-4cd306001c60"]
+new [description:"remove check nagios 675167" end:"1405667782" entry:"1405599753" modified:"1405667782" project:"work" status:"completed" uuid:"2feb5b23-a2c9-492d-8cd4-4cd306001c60"]
+---
+time 1405671726
+new [description:"wor:pro ldap qa 35451" entry:"1405671726" status:"pending" uuid:"460b8ff3-9e47-414f-966f-28c492527dd2"]
+---
+time 1405927359
+new [description:"Setup" due:"1405807200" entry:"1405927359" imask:"82" modified:"1405667740" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"119304e5-a26c-40b0-9533-8d8e030018bd"]
+---
+time 1405927359
+new [description:"Setup" due:"1405893600" entry:"1405927359" imask:"83" modified:"1405667740" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+---
+time 1405927359
+new [description:"Setup" due:"1405980000" entry:"1405927359" imask:"84" modified:"1405667740" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"114b225d-b11a-41c9-a06b-f948c566e5cb"]
+---
+time 1405927359
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++" modified:"1405667740" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++---" modified:"1405927359" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405927371
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++---" modified:"1405927359" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X--" modified:"1405927371" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405927371
+old [description:"Setup" due:"1405807200" entry:"1405927359" imask:"82" modified:"1405667740" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"119304e5-a26c-40b0-9533-8d8e030018bd"]
+new [description:"Setup" due:"1405807200" end:"1405927370" entry:"1405927359" imask:"82" modified:"1405927371" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"deleted" uuid:"119304e5-a26c-40b0-9533-8d8e030018bd"]
+---
+time 1405927380
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X--" modified:"1405927371" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X--" modified:"1405927380" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405927380
+old [description:"Setup" due:"1405893600" entry:"1405927359" imask:"83" modified:"1405667740" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+new [description:"Setup" due:"1405893600" entry:"1405927359" imask:"83" modified:"1405927380" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405927380" status:"pending" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+---
+time 1405927421
+new [description:"work:pro rules" entry:"1405927421" status:"pending" uuid:"57fbe877-8224-4dcb-9bbd-3bc222d536b8"]
+---
+time 1405927465
+old [description:"abilitare docki per tutti ticket 675089" entry:"1405589299" project:"work" status:"pending" uuid:"93515f02-bd32-43d1-bfa4-1cf86cebe3b6"]
+new [description:"abilitare docki per tutti ticket 675089" end:"1405927465" entry:"1405589299" modified:"1405927465" project:"work" status:"completed" uuid:"93515f02-bd32-43d1-bfa4-1cf86cebe3b6"]
+---
+time 1405929869
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X--" modified:"1405927380" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X--" modified:"1405929869" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405929869
+old [description:"Setup" due:"1405893600" entry:"1405927359" imask:"83" modified:"1405927380" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" start:"1405927380" status:"pending" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+new [description:"Setup" due:"1405893600" entry:"1405927359" imask:"83" modified:"1405929869" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+---
+time 1405929877
+old [description:"wor:pro ldap qa 35451" entry:"1405671726" status:"pending" uuid:"460b8ff3-9e47-414f-966f-28c492527dd2"]
+new [description:"wor:pro ldap qa 35451" end:"1405929877" entry:"1405671726" modified:"1405929877" status:"completed" uuid:"460b8ff3-9e47-414f-966f-28c492527dd2"]
+---
+time 1405929885
+old [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X--" modified:"1405929869" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+new [description:"Setup" due:"1398722400" entry:"1398753955" mask:"++++++X++++XX+++++XX+++XXXX++X++XXX++++X++++++XX++++XXXXXXXXXXXXXXXXXXXXXXXXXX++++X+-" modified:"1405929885" project:"setup" recur:"daily" status:"recurring" uuid:"35fd56e0-f937-49ea-9cdb-93d76e2c90da"]
+---
+time 1405929885
+old [description:"Setup" due:"1405893600" entry:"1405927359" imask:"83" modified:"1405929869" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"pending" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+new [description:"Setup" due:"1405893600" end:"1405929885" entry:"1405927359" imask:"83" modified:"1405929885" parent:"35fd56e0-f937-49ea-9cdb-93d76e2c90da" project:"setup" recur:"daily" status:"completed" uuid:"104cf627-29fd-41cd-bef8-3372450e997e"]
+---
