@@ -18,15 +18,16 @@ download_rate = 0
 upload_rate = 50
 
 # Default directory to save the downloaded torrents.
-directory = /home/vcrini/downloads
+directory = /home/vcrini/downloads/torrent/new
 
 # Default session directory. Make sure you don't run multiple instance
 # of rtorrent using the same session directory. Perhaps using a
 # relative path?
-session = /home/vcrini/downloads
+session = /home/vcrini/downloads/torrent/sessions
 
 # Watch a directory for new torrents, and stop those that have been
 # deleted.
+schedule = watch_directory,5,5,load_start=/home/vcrini/downloads/torrent/watch/*.torrent
 #schedule = watch_directory,5,5,load_start=./watch/*.torrent
 #schedule = untied_directory,5,5,stop_untied=
 
